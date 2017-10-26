@@ -9,7 +9,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2017-10-05; Spotkanie organizacyjne
 * 2017-10-12; Propozycje prac magisterskich - NVidia
 * 2017-10-19; [Propozycje prac magisterskich - Henryk Michalewski](https://docs.google.com/presentation/d/1mBW6-jCIZeqm-iSzO9sSvPozw8FmGi78ED-ZS4-OPUo/edit?usp=sharing)
-* 2017-10-26; Understanding deep learning requires rethinking generalization, https://arxiv.org/abs/1611.03530
+* 2017-10-26; Understanding deep learning requires rethinking generalization, https://arxiv.org/abs/1611.03530 [prezentacja](https://docs.google.com/presentation/d/18CmBvLTApYklfpqKKoB3BDr-RE3m045WZnJHg7E-a9c/edit#slide=id.g292430808e_0_56)
 * 2017-11-02; Distilling the Knowledge in a Neural Network, https://arxiv.org/abs/1503.02531
 * 2017-11-09; "Why Should I Trust You?": Explaining the Predictions of Any Classifier, https://arxiv.org/abs/1602.04938
 * 2017-11-16; Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images, https://arxiv.org/abs/1412.1897
