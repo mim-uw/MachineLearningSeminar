@@ -18,7 +18,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2017-12-07; Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 * 2017-12-14
 * 2017-12-21; Deep Reinforcement Learning: Pong from Pixels, http://karpathy.github.io/2016/05/31/rl/
-* 2018-01-11
+* 2018-01-11; A Critical Review of Recurrent Neural Networks for Sequence Learning https://arxiv.org/abs/1506.00019
 * 2018-01-18
 * 2018-01-25
 * 2018-02-22
