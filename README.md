@@ -17,7 +17,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2017-11-30; mlr: Machine Learning in R, http://jmlr.org/papers/v17/15-066.html
 * 2017-12-07; Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 * 2017-12-14
-* 2017-12-21
+* 2017-12-21; Deep Reinforcement Learning: Pong from Pixels, http://karpathy.github.io/2016/05/31/rl/
 * 2018-01-11
 * 2018-01-18
 * 2018-01-25
