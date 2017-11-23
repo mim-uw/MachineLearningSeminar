@@ -15,11 +15,11 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2017-11-16; Deep Neural Networks are Easily Fooled: High Confidence Predictions for Unrecognizable Images, https://arxiv.org/abs/1412.1897
 * 2017-11-23; Visualizing statistical models: Removing the blindfold, http://had.co.nz/stat645/model-vis.pdf
 * 2017-11-30; mlr: Machine Learning in R, http://jmlr.org/papers/v17/15-066.html
-* 2017-12-07; Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
+* 2017-12-07
 * 2017-12-14
 * 2017-12-21; Deep Reinforcement Learning: Pong from Pixels, http://karpathy.github.io/2016/05/31/rl/
 * 2018-01-11; A Critical Review of Recurrent Neural Networks for Sequence Learning https://arxiv.org/abs/1506.00019
-* 2018-01-18
+* 2018-01-18; Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 * 2018-01-25
 * 2018-02-22
 * 2018-03-01
