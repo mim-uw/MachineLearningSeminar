@@ -17,7 +17,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2017-11-30; mlr: Machine Learning in R, http://jmlr.org/papers/v17/15-066.html
 * 2017-12-07
 * 2017-12-14; Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics, https://arxiv.org/pdf/1705.07115.pdf
-* 2017-12-21; Deep Reinforcement Learning: Pong from Pixels, http://karpathy.github.io/2016/05/31/rl/
+* 2017-12-21; Deep Reinforcement Learning: Pong from Pixels, http://karpathy.github.io/2016/05/31/rl/ https://docs.google.com/presentation/d/1lHvatcCaJXit7Uub4pBDOD_s32VZKq5NRZPpxcaDf8M/edit#slide=id.p3
 * 2018-01-11; Scikit-learn & Pandas
 * 2018-01-18; Visualizing and Understanding Convolutional Networks, https://arxiv.org/abs/1311.2901
 * 2018-01-25; A Critical Review of Recurrent Neural Networks for Sequence Learning https://arxiv.org/abs/1506.00019
