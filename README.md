@@ -23,7 +23,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2018-01-25; A Critical Review of Recurrent Neural Networks for Sequence Learning https://arxiv.org/abs/1506.00019
 * 2018-03-01; A Unified Approach to Interpreting Model Predictions https://arxiv.org/abs/1705.07874
 * 2018-03-08
-* 2018-03-15
+* 2018-03-15; Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/abs/1712.01815, Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270?sf123103138=1
 * 2018-03-22
 * 2018-04-05
 * 2018-04-12
