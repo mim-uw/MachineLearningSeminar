@@ -25,6 +25,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2018-03-08
 * 2018-03-15; Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm https://arxiv.org/abs/1712.01815, Mastering the game of Go without human knowledge https://www.nature.com/articles/nature24270?sf123103138=1
 * 2018-03-22; Playing Atari with Deep Reinforcement Learning https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf oraz Continuous control with deep reinforcement learning  https://arxiv.org/abs/1509.02971
+* 2018-03-28; Paweł Góra, zaczynamy 10:45
 * 2018-04-05
 * 2018-04-12
 * 2018-04-19
