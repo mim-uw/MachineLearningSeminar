@@ -28,8 +28,8 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2018-03-28; Paweł Góra, zaczynamy 10:45
 * 2018-04-05; brak seminarium
 * 2018-04-12; Dynamic Routing Between Capsules https://arxiv.org/abs/1710.09829
-* 2018-04-19; Matrix Capsules with EM Routing https://openreview.net/forum?id=HJWLfGWRb
-* 2018-04-26
+* 2018-04-19
+* 2018-04-26; Matrix Capsules with EM Routing https://openreview.net/forum?id=HJWLfGWRb
 * 2018-05-10
 * 2018-05-17
 * 2018-05-24
