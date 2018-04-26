@@ -30,7 +30,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2018-04-12; Dynamic Routing Between Capsules https://arxiv.org/abs/1710.09829
 * 2018-04-19
 * 2018-04-26; Matrix Capsules with EM Routing https://openreview.net/forum?id=HJWLfGWRb
-* 2018-05-10; Przemysław Horban (ML interpretability)
+* 2018-05-10; GA2M - Interpretable Generalized Additive Models (+ applications) - Przemysław Horban
 * 2018-05-17
 * 2018-05-24
 * 2018-06-07
