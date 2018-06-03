@@ -33,7 +33,7 @@ Seminarium magisterskie MIMUW 2017/2018
 * 2018-05-10; GA2M - Interpretable Generalized Additive Models (+ applications) - Przemysław Horban
 * 2018-05-17; NeuroSAT - Learning a SAT Solver from Single-Bit Supervision https://arxiv.org/abs/1802.03685
 * 2018-05-24; Anchors: High-Precision Model-Agnostic Explanations https://homes.cs.washington.edu/~marcotcr/aaai18.pdf
-* 2018-06-07
+* 2018-06-07; Continuous control with deep reinforcement learning https://arxiv.org/abs/1509.02971
 
 
 
