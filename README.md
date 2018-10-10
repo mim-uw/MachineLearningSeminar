@@ -1,10 +1,21 @@
 # Machine Learning
 
-Seminarium magisterskie MIMUW 2017/2018
+Seminarium magisterskie MIMUW 2018/2019
 
-[USOS](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazZajecia&amp;zaj_cyk_id=354636&amp;gr_nr=1)
+[USOS](https://usosweb.mimuw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazGrupyZajec&zaj_cyk_id=379369)
 
-## Plan spotkań
+## Plan spotkań 2018/2019
+
+* 2018-10-11; Zuzanna Pilat - Learning algorithms with neural gpu
+* 2018-10-18; Bartosz Biskupski (TCL) - prezentacja tematów prac magisterskich
+* 2018-10-25; Paweł Gora - prezentacja tematów prac magisterskich
+* 2018-11-08; Marcin Papierzyński - Opening the black box of Deep Neural Networks via Information
+* 2018-11-15; Sebastian Jaszczur
+* 2018-11-22; Przemysław Sadownik
+
+
+
+## Plan spotkań 2017/2018
 
 * 2017-10-05; Spotkanie organizacyjne
 * 2017-10-12; Propozycje prac magisterskich - NVidia
