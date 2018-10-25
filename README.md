@@ -8,10 +8,11 @@ Seminarium magisterskie MIMUW 2018/2019
 
 * 2018-10-11; Zuzanna Pilat - Learning algorithms with neural gpu
 * 2018-10-18; [Bartosz Biskupski (TCL) - prezentacja tematów prac magisterskich](http://tcl-research.pl/files/2018.10_TCL_MimUW_Msc_thesis_videos.pdf)
-* 2018-10-25; Paweł Gora - prezentacja tematów prac magisterskich
-* 2018-11-08; Marcin Papierzyński - Opening the black box of Deep Neural Networks via Information
+* 2018-10-25; (seminarium odwołane) Paweł Gora - prezentacja tematów prac magisterskich
+* 2018-11-08; Paweł Gora - prezentacja tematów prac magisterskich
 * 2018-11-15; Sebastian Jaszczur
 * 2018-11-22; Przemysław Sadownik
+* 2018-11-29; Marcin Papierzyński - Opening the black box of Deep Neural Networks via Information
 
 
 
