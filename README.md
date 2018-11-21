@@ -11,7 +11,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-10-25; (seminarium odwołane) Paweł Gora - prezentacja tematów prac magisterskich
 * 2018-11-08; Paweł Gora - prezentacja tematów prac magisterskich
 * 2018-11-15; Sebastian Jaszczur  - [Distillation and privileged information](http://goo.gl/EC8V81)
-* 2018-11-22; Przemysław Sadownik
+* 2018-11-22; Przemysław Sadownik - Tree-based Pipeline Optimization Tool for Automating Data Science
 * 2018-11-29; Marcin Papierzyński - Opening the black box of Deep Neural Networks via Information
 
 
