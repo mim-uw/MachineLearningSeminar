@@ -14,10 +14,26 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-11-22; Przemysław Sadownik - Tree-based Pipeline Optimization Tool for Automating Data Science
 * 2018-11-29; Marcin Papierzyński - [Opening the black box of Deep Neural Networks via Information](https://tinyurl.com/InformationBottleneck)
 * 2018-12-13; Piotr Biliński - prezentacja tematów prac magisterskich.
+* 2018-12-20; Michał Zawalski
+* 2018-01-10; Rafał Sadziak
 * 2018-01-17; Michał Łuszczyk
+* 2018-01-24; Wojciech Mańka
+* 2018-01-31; Mateusz Doliński
+* 2018-02-07; 
 * 2019-02-28; Paweł Zięcik
 * 2019-03-07; Michał Kukuła
-
+* 2018-03-14; Jakub Sieroń
+* 2018-03-21; Maciej Biernaczyk
+* 2018-03-28; Adam Dobrakowski
+* 2018-04-04; Sebastian Jaszczur
+* 2018-04-11;
+* 2018-04-18;
+* 2018-04-25;
+* 2018-05-02;
+* 2018-05-09; Przemysław Sadownik
+* 2018-05-16;
+* 2018-05-23;
+* 2018-05-30;
 
 
 ## Plan spotkań 2017/2018
