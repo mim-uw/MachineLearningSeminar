@@ -18,7 +18,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-01-10; Rafał Sadziak
 * 2018-01-17; Michał Łuszczyk
 * 2018-01-24; Wojciech Mańka
-* 2018-01-31; Mateusz Doliński
+* 2018-01-31; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-02-07; 
 * 2019-02-28; Paweł Zięcik
 * 2019-03-07; Michał Kukuła
