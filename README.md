@@ -26,7 +26,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-03-21; Maciej Biernaczyk
 * 2018-03-28; Adam Dobrakowski
 * 2018-04-04; Sebastian Jaszczur
-* 2018-04-11;
+* 2018-04-11; Jakub Skorupski
 * 2018-04-18;
 * 2018-04-25;
 * 2018-05-02;
