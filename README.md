@@ -28,7 +28,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-04-04; Sebastian Jaszczur
 * 2018-04-11; Jakub Skorupski
 * 2018-04-18;
-* 2018-04-25;
+* 2018-04-25; Mikołaj Błaż
 * 2018-05-02;
 * 2018-05-09; Przemysław Sadownik
 * 2018-05-16;
