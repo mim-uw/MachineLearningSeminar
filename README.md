@@ -16,7 +16,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-12-13; Piotr Biliński - prezentacja tematów prac magisterskich.
 * 2018-12-20; Michał Zawalski
 * 2018-01-10; Rafał Sadziak
-* 2018-01-17; Michał Łuszczyk
+* 2018-01-17; Michał Łuszczyk - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf).
 * 2018-01-24; Wojciech Mańka
 * 2018-01-31; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-02-07; 
