@@ -20,7 +20,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-01-24; Wojciech Mańke - [Neural Architecture Search With Reinforcement Learning](https://arxiv.org/pdf/1611.01578.pdf)
 * 2018-01-31; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-02-07; 
-* 2019-02-28; Paweł Zięcik
+* 2019-02-28; Paweł Zięcik - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
 * 2019-03-07; Michał Kukuła
 * 2018-03-14; Jakub Sieroń
 * 2018-03-21; Maciej Biernaczyk
