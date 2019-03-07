@@ -15,7 +15,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-11-29; Marcin Papierzyński - [Opening the black box of Deep Neural Networks via Information](https://tinyurl.com/InformationBottleneck)
 * 2018-12-13; Piotr Biliński - prezentacja tematów prac magisterskich.
 * 2018-12-20; Michał Zawalski
-* 2018-01-10; Rafał Sadziak
+* 2018-01-10; Rafał Sadziak - [Adversarial attacks and defences](https://docs.google.com/presentation/d/1pmlocRcmmQXZAqCUCmyWFQybvm7whosHO9nV4ZxafU0/edit?usp=sharing)
 * 2018-01-17; Michał Łuszczyk - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf).
 * 2018-01-24; Wojciech Mańke - [Neural Architecture Search With Reinforcement Learning](https://arxiv.org/pdf/1611.01578.pdf)
 * 2018-01-31; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
