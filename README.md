@@ -18,7 +18,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-01-10; Rafał Sadziak - [Adversarial attacks and defences](https://docs.google.com/presentation/d/1pmlocRcmmQXZAqCUCmyWFQybvm7whosHO9nV4ZxafU0/edit?usp=sharing)
 * 2018-01-17; Michał Łuszczyk - [Realistic Evaluation of Deep Semi-Supervised Learning Algorithms](http://papers.nips.cc/paper/7585-realistic-evaluation-of-deep-semi-supervised-learning-algorithms.pdf).
 * 2018-01-24; Wojciech Mańke - [Neural Architecture Search With Reinforcement Learning](https://arxiv.org/pdf/1611.01578.pdf)
-* 2018-01-31; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
+* 2018-01-31; 
 * 2018-02-07; 
 * 2019-02-28; Paweł Zięcik - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
 * 2019-03-07; Michał Kukuła [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](http://www-bcf.usc.edu/~vayanou/papers/2019/Fair_DT_AAAI_2019_CameraReady.pdf)
@@ -27,7 +27,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-03-28; Adam Dobrakowski
 * 2018-04-04; Sebastian Jaszczur
 * 2018-04-11; Jakub Skorupski
-* 2018-04-18;
+* 2018-04-18; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-04-25; Mikołaj Błaż
 * 2018-05-02;
 * 2018-05-09; Przemysław Sadownik
