@@ -22,7 +22,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-02-07; 
 * 2019-02-28; Paweł Zięcik - [Large-Scale Study of Curiosity-Driven Learning](https://pathak22.github.io/large-scale-curiosity/resources/largeScaleCuriosity2018.pdf)
 * 2019-03-07; Michał Kukuła [Learning Optimal and Fair Decision Trees for Non-Discriminative Decision-Making](http://www-bcf.usc.edu/~vayanou/papers/2019/Fair_DT_AAAI_2019_CameraReady.pdf)
-* 2018-03-14; Jakub Sieroń
+* 2018-03-14; Jakub Sieroń [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439)
 * 2018-03-21; Maciej Biernaczyk
 * 2018-03-28; Adam Dobrakowski
 * 2018-04-04; Sebastian Jaszczur
