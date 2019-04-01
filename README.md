@@ -25,7 +25,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-03-14; Jakub Sieroń [Thinking Fast and Slow with Deep Learning and Tree Search](https://arxiv.org/abs/1705.08439)
 * 2018-03-21; Maciej Biernaczyk
 * 2018-03-28; Adam Dobrakowski
-* 2018-04-04; Sebastian Jaszczur
+* 2018-04-04; Sebastian Jaszczur - [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 * 2018-04-11; Jakub Skorupski
 * 2018-04-18; 
 * 2018-04-25; Mikołaj Błaż
