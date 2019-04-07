@@ -31,8 +31,8 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-04-25; Mikołaj Błaż
 * 2018-05-02;
 * 2018-05-09; Przemysław Sadownik
-* 2018-05-16; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
-* 2018-05-23;
+* 2018-05-16; 
+* 2018-05-23; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-05-30;
 
 
