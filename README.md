@@ -28,7 +28,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-04-04; Sebastian Jaszczur - [Concrete Problems in AI Safety](https://arxiv.org/abs/1606.06565)
 * 2018-04-11; Jakub Skorupski - [Generating Adversarial Malware Examples for Black-Box Attacks Based on GAN](https://arxiv.org/pdf/1702.05983.pdf)
 * 2018-04-18; 
-* 2018-04-25; Mikołaj Błaż
+* 2018-04-25; Mikołaj Błaż - [Single-Agent Policy Tree Search With Guarantees](https://arxiv.org/abs/1811.10928)
 * 2018-05-02;
 * 2018-05-09; Przemysław Sadownik
 * 2018-05-16; 
