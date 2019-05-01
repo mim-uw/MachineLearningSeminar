@@ -33,7 +33,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-05-09; Przemysław Sadownik
 * 2018-05-16; 
 * 2018-05-23; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
-* 2018-05-30;
+* 2018-05-30; Piotr Piękos - [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
 
 
 ## Plan spotkań 2017/2018
