@@ -30,7 +30,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2018-04-18; 
 * 2018-04-25; Mikołaj Błaż - [Single-Agent Policy Tree Search With Guarantees](https://arxiv.org/abs/1811.10928)
 * 2018-05-02;
-* 2018-05-09; Przemysław Sadownik
+* 2019-05-09; Przemysław Sadownik  "Layer-based AutoML with evolutionary algorithms"
 * 2018-05-16; Jacek Maksymiuk - [“What is Relevant in a Text Document?”: An Interpretable Machine Learning Approach](https://arxiv.org/pdf/1612.07843.pdf)
 * 2018-05-23; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2018-05-30; Piotr Piękos - [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
