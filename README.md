@@ -34,6 +34,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2019-05-16; Jacek Maksymiuk - [“What is Relevant in a Text Document?”: An Interpretable Machine Learning Approach](https://arxiv.org/pdf/1612.07843.pdf)
 * 2019-05-23; Mateusz Doliński - [doc2vec](http://proceedings.mlr.press/v32/le14.pdf)
 * 2019-05-30; Piotr Piękos - [Hindsight Experience Replay](https://arxiv.org/abs/1707.01495)
+* 2019-06-06; Paweł Zięcik - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 
 ## Plan spotkań 2017/2018
