@@ -8,7 +8,7 @@ Seminarium magisterskie MIMUW 2018/2019
 
 * 2019-10-03
 * 2019-10-10; Umair Rasheed - Volkswagen
-* 2019-10-17; Michał Futrega
+* 2019-10-17; Michał Futrega + JAcek Cyranka (prezentacja tematów prac magisterskich)
 * 2019-10-24; Maciej Biernaczyk
 * 2019-10-31; Michał Zawadzki
 * 2019-11-07; Krystian Koziatek
