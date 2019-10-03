@@ -7,11 +7,11 @@ Seminarium magisterskie MIMUW 2018/2019
 ## Plan spotkań 2019/2020
 
 * 2019-10-03
-* 2019-10-10
-* 2019-10-17
-* 2019-10-24
-* 2019-10-31
-* 2019-11-07
+* 2019-10-10; Umair Rasheed - Volkswagen
+* 2019-10-17; Michał Futrega
+* 2019-10-24; Maciej Biernaczyk
+* 2019-10-31; Michał Zawadzki
+* 2019-11-07; Krystian Koziatek
 * 2019-11-14
 * 2019-11-21
 * 2019-11-28
