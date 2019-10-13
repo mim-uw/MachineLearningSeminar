@@ -13,7 +13,7 @@ Seminarium magisterskie MIMUW 2018/2019
 * 2019-10-31; Michał Zawadzki
 * 2019-11-07; Krystian Koziatek
 * 2019-11-14; Mateusz Doliński - [Wild Patterns: Ten Years After the Rise ofAdversarial Machine Learning](https://arxiv.org/pdf/1712.03141.pdf)
-* 2019-11-21
+* 2019-11-21; Jakub Skorupski
 * 2019-11-28
 * 2019-12-05 	
 * 2019-12-12 	
