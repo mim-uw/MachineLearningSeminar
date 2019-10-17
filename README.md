@@ -1,6 +1,6 @@
 ﻿# Machine Learning
 
-Seminarium magisterskie MIMUW 2018/2019
+Seminarium magisterskie MIMUW 2019/2020
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
@@ -8,7 +8,7 @@ Seminarium magisterskie MIMUW 2018/2019
 
 * 2019-10-03
 * 2019-10-10; Umair Rasheed - Volkswagen
-* 2019-10-17; Michał Futrega + Jacek Cyranka (prezentacja tematów prac magisterskich)
+* 2019-10-17; Michał Futrega + [Jacek Cyranka (prezentacja tematów prac magisterskich)](https://docs.google.com/presentation/d/1kbdybSmN78ItZX5sy471H-sm9DsfPRv-u4oQcuV2TEo/edit?usp=sharing)
 * 2019-10-24; Maciej Biernaczyk
 * 2019-10-31; Michał Zawadzki
 * 2019-11-07; Krystian Koziatek
