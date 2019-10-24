@@ -9,7 +9,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-10-03
 * 2019-10-10; Umair Rasheed - Volkswagen
 * 2019-10-17; [Michał Futrega (Neural Architecture Search)](https://docs.google.com/presentation/d/1cj2wUcqnuoo71X1Jp_aA0dqR815pmgyB3R5sq6c7tfs/edit?usp=sharing) + [Jacek Cyranka (prezentacja tematów prac magisterskich)](https://docs.google.com/presentation/d/1kbdybSmN78ItZX5sy471H-sm9DsfPRv-u4oQcuV2TEo/edit?usp=sharing)
-* 2019-10-24; Maciej Biernaczyk
+* 2019-10-24; Maciej Biernaczyk - [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://docs.google.com/presentation/d/1JcYwfr6DXhcHFcXG-7wE0Yw4dvS7Fur3ypx7oxXlFZM/edit?usp=sharing)
 * 2019-10-31; Michał Zawadzki
 * 2019-11-07; Krystian Koziatek
 * 2019-11-14; Mateusz Doliński - [Wild Patterns: Ten Years After the Rise ofAdversarial Machine Learning](https://arxiv.org/pdf/1712.03141.pdf)
