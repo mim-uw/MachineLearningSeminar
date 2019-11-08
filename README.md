@@ -11,11 +11,11 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-10-17; [Michał Futrega (Neural Architecture Search)](https://docs.google.com/presentation/d/1cj2wUcqnuoo71X1Jp_aA0dqR815pmgyB3R5sq6c7tfs/edit?usp=sharing) + [Jacek Cyranka (prezentacja tematów prac magisterskich)](https://docs.google.com/presentation/d/1kbdybSmN78ItZX5sy471H-sm9DsfPRv-u4oQcuV2TEo/edit?usp=sharing)
 * 2019-10-24; Maciej Biernaczyk - [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://docs.google.com/presentation/d/1JcYwfr6DXhcHFcXG-7wE0Yw4dvS7Fur3ypx7oxXlFZM/edit?usp=sharing)
 * 2019-10-31; Michał Zawalski - [Knowledge-free solving the Rubik’s cube](https://docs.google.com/presentation/d/1W3ajlSapeFFQH3h04tpOJ5SQgcI2B4Rgk2bYlfA4gus/edit?usp=sharing)
-* 2019-11-07; Krystian Koziatek + [Marek Cygan: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/1Yzkp8nZifuY-VZ0V5c4eY_Zo4hhpZgv5-tCOr-dnVXM/edit?usp=sharing)
+* 2019-11-07; Krystian Koziatek - [Learning the Depths of Moving People by Watching Frozen People](https://arxiv.org/abs/1904.11111) + [Marek Cygan: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/1Yzkp8nZifuY-VZ0V5c4eY_Zo4hhpZgv5-tCOr-dnVXM/edit?usp=sharing)
 * 2019-11-14; Mateusz Doliński - [Wild Patterns: Ten Years After the Rise ofAdversarial Machine Learning](https://arxiv.org/pdf/1712.03141.pdf)
 * 2019-11-21; Jakub Skorupski + (Paweł Gora: prezentacja tematów prac magisterskich)
 * 2019-11-28; Michał Kukuła
-* 2019-12-05 	
+* 2019-12-05  ... 	+ (Przemek Biecek: prezentacja tematów prac magisterskich)
 * 2019-12-12 	
 * 2019-12-19 	
 * 2020-01-09 	
