@@ -12,7 +12,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-10-24; Maciej Biernaczyk - [AutoGAN: Neural Architecture Search for Generative Adversarial Networks](https://docs.google.com/presentation/d/1JcYwfr6DXhcHFcXG-7wE0Yw4dvS7Fur3ypx7oxXlFZM/edit?usp=sharing)
 * 2019-10-31; Michał Zawalski - [Knowledge-free solving the Rubik’s cube](https://docs.google.com/presentation/d/1W3ajlSapeFFQH3h04tpOJ5SQgcI2B4Rgk2bYlfA4gus/edit?usp=sharing)
 * 2019-11-07; Krystian Koziatek - [Learning the Depths of Moving People by Watching Frozen People](https://docs.google.com/presentation/d/1w4kxk5tlTzR0tV-1mHTvqzMCvnhgG67V28BL54ZQzgE/edit?usp=sharing) + [Marek Cygan: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/1Yzkp8nZifuY-VZ0V5c4eY_Zo4hhpZgv5-tCOr-dnVXM/edit?usp=sharing)
-* 2019-11-14; Mateusz Doliński - [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://arxiv.org/pdf/1910.03225.pdf)
+* 2019-11-14; Mateusz Doliński - [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://drive.google.com/file/d/1XniVuuDCZYpmL9pcwz4TpgF9cygCAoFM/view?usp=sharing)
 * 2019-11-21; Jakub Skorupski - [TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239) + (Paweł Gora: prezentacja tematów prac magisterskich)
 * 2019-11-28; Michał Kukuła
 * 2019-12-05  ... 	+ (Przemek Biecek: prezentacja tematów prac magisterskich)
