@@ -15,12 +15,12 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-11-14; Mateusz Doliński - [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://drive.google.com/file/d/1XniVuuDCZYpmL9pcwz4TpgF9cygCAoFM/view?usp=sharing)
 * 2019-11-21; Jakub Skorupski - [TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239) | [Prezentacja](https://drive.google.com/file/d/1mlgmSzErT-FVIy2kHpdborf4UUPPDa9o/view)
 * 2019-11-28; Michał Kukuła  + (Paweł Gora: prezentacja tematów prac magisterskich) 
-* 2019-12-05  ... 	+ (Przemek Biecek & Piotr Miłoś: prezentacja tematów prac magisterskich)
+* 2019-12-05  Przemek Biecek & Piotr Miłoś: prezentacja tematów prac magisterskich
 * 2019-12-12; Mateusz Doliński - [Wild patterns: Ten years after the rise of adversarial machine learning](https://arxiv.org/abs/1712.03141)
 * 2019-12-19 	
-* 2020-01-09 	
-* 2020-01-16 	
-* 2020-01-23 	
+* 2020-01-09 	Kamil Faber
+* 2020-01-16 	Jakub Jasiulewicz
+* 2020-01-23 	Tomasz Kurzelewski
 * 2020-01-30 	
 * 2020-02-06 	
 * 2020-02-27 	
