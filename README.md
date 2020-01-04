@@ -21,8 +21,6 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-01-09 	Kamil Faber
 * 2020-01-16 	Jakub Jasiulewicz
 * 2020-01-23 	Tomasz Kurzelewski
-* 2020-01-30 	
-* 2020-02-06 	
 * 2020-02-27 	
 * 2020-03-05 	
 * 2020-03-12 	
