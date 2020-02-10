@@ -14,16 +14,14 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-11-07; Krystian Koziatek - [Learning the Depths of Moving People by Watching Frozen People](https://docs.google.com/presentation/d/1w4kxk5tlTzR0tV-1mHTvqzMCvnhgG67V28BL54ZQzgE/edit?usp=sharing) + [Marek Cygan: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/1Yzkp8nZifuY-VZ0V5c4eY_Zo4hhpZgv5-tCOr-dnVXM/edit?usp=sharing)
 * 2019-11-14; Mateusz Doliński - [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://drive.google.com/file/d/1XniVuuDCZYpmL9pcwz4TpgF9cygCAoFM/view?usp=sharing)
 * 2019-11-21; Jakub Skorupski - [TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239) | [Prezentacja](https://drive.google.com/file/d/1mlgmSzErT-FVIy2kHpdborf4UUPPDa9o/view)
-* 2019-11-28; Michał Kukuła  + (Paweł Gora: prezentacja tematów prac magisterskich) 
-* 2019-12-05  ... 	+ (Przemek Biecek & Piotr Miłoś: prezentacja tematów prac magisterskich)
-* 2019-12-12 	
-* 2019-12-19 	
-* 2020-01-09 	
-* 2020-01-16 	
-* 2020-01-23 	
-* 2020-01-30 	
-* 2020-02-06 	
-* 2020-02-27 	
+* 2019-11-28; Michał Kukuła - [Graph-based sparse neural networks for traffic signal optimization](http://students.mimuw.edu.pl/~mk371127/seminarium-ml.pdf)  + ([Paweł Gora: prezentacja tematów prac magisterskich](https://drive.google.com/file/d/0B_tQx3IvcEWmNTAySE0yQnh2WU94alpON2YwNjE4ZGsyRk9j/view?usp=sharing) 
+* 2019-12-05  [Przemek Biecek: prezentacja tematów prac magisterskich](https://github.com/pbiecek/Talks/blob/master/2019/MachineLearningSeminarMIM2019.pdf) & [Piotr Miłoś: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/15QF2qzwV3YwaEcpTuQksxccI-0SgI3nxfzPwLdYYMyM/edit?usp=sharing)
+* 2019-12-12; Mateusz Doliński - [Wild patterns: Ten years after the rise of adversarial machine learning](https://arxiv.org/abs/1712.03141)
+* 2019-12-19 	Henryk Michalewski, Mateusz Malinowski - [Prezentacja tematów prac magisterskich](https://drive.google.com/open?id=0B_tQx3IvcEWmZ3h0Ml9NQ05OWFFNRHlyQVl5bW1FMEM3MkhF)
+* 2020-01-09 	brak seminarium
+* 2020-01-16 	Jakub Jasiulewicz
+* 2020-01-23 	Kamil Faber, Tomasz Kurzelewski
+* 2020-02-27 	Zuzanna Kwiatkowska
 * 2020-03-05 	
 * 2020-03-12 	
 * 2020-03-19 	
