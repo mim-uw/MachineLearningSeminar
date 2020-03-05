@@ -23,7 +23,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-01-23 	Kamil Faber, Tomasz Kurzelewski
 * 2020-02-27 	Zuzanna Kwiatkowska
 * 2020-03-05 	
-* 2020-03-12 	
+* 2020-03-12 	Jakub Sieroń
 * 2020-03-19 	
 * 2020-03-26 	
 * 2020-04-02 	
