@@ -33,7 +33,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-05-07 	
 * 2020-05-14 	
 * 2020-05-21 	
-* 2020-05-28 	
+* 2020-05-28 	Zuzanna Kwiatkowska
 * 2020-06-04 	
 
 
