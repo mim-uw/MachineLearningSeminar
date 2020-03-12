@@ -23,10 +23,10 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-01-23 	Kamil Faber, Tomasz Kurzelewski
 * 2020-02-27 	Zuzanna Kwiatkowska
 * 2020-03-05 	
-* 2020-03-12 	Jakub Sieroń
+* 2020-03-12 	Jakub Sieroń - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 * 2020-03-19 	
 * 2020-03-26 	
-* 2020-04-02 	
+* 2020-04-02 	Jakub Sieroń
 * 2020-04-16 	Michał Kukuła
 * 2020-04-23 	Jakub Skorupski
 * 2020-04-30 	Kamil Tokarski
