@@ -20,7 +20,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-12-19 	Henryk Michalewski, Mateusz Malinowski - [Prezentacja tematów prac magisterskich](https://drive.google.com/open?id=0B_tQx3IvcEWmZ3h0Ml9NQ05OWFFNRHlyQVl5bW1FMEM3MkhF)
 * 2020-01-09 	brak seminarium
 * 2020-01-16 	Jakub Jasiulewicz
-* 2020-01-23 	Kamil Faber, Tomasz Kurzelewski
+* 2020-01-23 	Kamil Faber - [Optymalizacja Hiperparametrów](http://students.mimuw.edu.pl/~kf209517/seminarium_kamil_faber.pdf), Tomasz Kurzelewski
 * 2020-02-27 	Zuzanna Kwiatkowska
 * 2020-03-05 	
 * 2020-03-12 	Jakub Sieroń - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
