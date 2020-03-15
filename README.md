@@ -21,7 +21,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-01-09 	brak seminarium
 * 2020-01-16 	Jakub Jasiulewicz
 * 2020-01-23 	Kamil Faber - [Optymalizacja Hiperparametrów](http://students.mimuw.edu.pl/~kf209517/seminarium_kamil_faber.pdf), Tomasz Kurzelewski
-* 2020-02-27 	Zuzanna Kwiatkowska
+* 2020-02-27 	Zuzanna Kwiatkowska - [Introduction to Topological Data Analysis](https://drive.google.com/file/d/1rHbAT81esPBSWN1JBRBaf03jf8K9cw4I/view?usp=sharing)
 * 2020-03-05 	
 * 2020-03-12 	Jakub Sieroń - [Emergent Tool Use from Multi-Agent Interaction](https://openai.com/blog/emergent-tool-use/)
 * 2020-03-19 	
