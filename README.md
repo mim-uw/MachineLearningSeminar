@@ -19,7 +19,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2019-12-12; Mateusz Doliński - [Wild patterns: Ten years after the rise of adversarial machine learning](https://arxiv.org/abs/1712.03141)
 * 2019-12-19 	Henryk Michalewski, Mateusz Malinowski - [Prezentacja tematów prac magisterskich](https://drive.google.com/open?id=0B_tQx3IvcEWmZ3h0Ml9NQ05OWFFNRHlyQVl5bW1FMEM3MkhF)
 * 2020-01-09 	brak seminarium
-* 2020-01-16 	Jakub Jasiulewicz
+* 2020-01-16 	Jakub Jasiulewicz - [Playing hard exploration games by watching YouTube](http://students.mimuw.edu.pl/~jj385649/um-sem/Playing%20hard%20exploration%20games%20by%20watching%20YouTube.pdf) ([paper](https://arxiv.org/abs/1805.11592))
 * 2020-01-23 	Kamil Faber - [Optymalizacja Hiperparametrów](http://students.mimuw.edu.pl/~kf209517/seminarium_kamil_faber.pdf), Tomasz Kurzelewski
 * 2020-02-27 	Zuzanna Kwiatkowska - [Introduction to Topological Data Analysis](https://drive.google.com/file/d/1rHbAT81esPBSWN1JBRBaf03jf8K9cw4I/view?usp=sharing)
 * 2020-03-05 	
