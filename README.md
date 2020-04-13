@@ -34,7 +34,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-05-14 	Krystian Koziatek
 * 2020-05-21 	Mieczysław Krawiarz
 * 2020-05-28 	Zuzanna Kwiatkowska
-* 2020-06-04 	
+* 2020-06-04 	Michał Futrega
 
 
 
