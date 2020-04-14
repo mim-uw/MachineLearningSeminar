@@ -27,9 +27,9 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-03-19 	
 * 2020-03-26 	Maciej Sypetkowski -- [Presentation](http://students.mimuw.edu.pl/~ms386094/ml-sem-noisy-student-26-03-2020.pdf), [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 * 2020-04-02 	Jakub Sieroń
-* 2020-04-16 	Michał Kukuła
-* 2020-04-23 	Jakub Skorupski
-* 2020-04-30 	Kamil Tokarski
+* 2020-04-16 	brak seminarium 
+* 2020-04-23 	brak seminarium
+* 2020-04-30 	(10:15-13:15) Michał Kukuła, Jakub Skorupski, Kamil Tokarski - Autoencoders 
 * 2020-05-07 	
 * 2020-05-14 	Krystian Koziatek
 * 2020-05-21 	Mieczysław Krawiarz
