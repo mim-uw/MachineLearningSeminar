@@ -32,7 +32,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-04-30 	(10:15-13:15) Michał Kukuła, Jakub Skorupski, Kamil Tokarski - [Autoencoders](https://docs.google.com/presentation/d/18nieuWffjILfbDWrDXnUAXGWftGtTeIW1aeIKzfDP8w/edit?usp=sharing) 
 * 2020-05-07 	
 * 2020-05-14 	
-* 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska, Mieczysław Krawiarz, Krystian Koziatek - DL for audio, NLP and video
+* 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska, Mieczysław Krawiarz, Krystian Koziatek, Michał Futrega - DL for audio, NLP and video
 * 2020-05-28 	
 * 2020-06-04 	
 
