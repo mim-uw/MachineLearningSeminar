@@ -33,7 +33,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-05-07 	
 * 2020-05-14 	
 * 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska, Mieczysław Krawiarz, Krystian Koziatek, Michał Futrega - DL for audio, NLP and video
-* 2020-05-28 	
+* 2020-05-28 	Piotr Piękos - Mathematical tasks with nlp methods
 * 2020-06-04 	
 
 
