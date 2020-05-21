@@ -32,7 +32,7 @@ Seminarium magisterskie MIMUW 2019/2020
 * 2020-04-30 	(10:15-13:15) Michał Kukuła, Jakub Skorupski, Kamil Tokarski - [Autoencoders](https://docs.google.com/presentation/d/18nieuWffjILfbDWrDXnUAXGWftGtTeIW1aeIKzfDP8w/edit?usp=sharing) 
 * 2020-05-07 	
 * 2020-05-14 	
-* 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska ([AudioAI](https://drive.google.com/file/d/1O29x1GUHIcWjLoHh_qs92d2XVR6JE-Dy/view?usp=sharing)), Mieczysław Krawiarz, Krystian Koziatek, Michał Futrega - DL for audio, NLP and video
+* 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska ([AudioAI](https://drive.google.com/file/d/1O29x1GUHIcWjLoHh_qs92d2XVR6JE-Dy/view?usp=sharing)), Mieczysław Krawiarz, Krystian Koziatek ([Skin cancer detection & ResNeSt](https://docs.google.com/presentation/d/1KVFTEit3wr8WKPI5N5RgAN-ERXXgu-2qRPI08Npb8IM/edit?usp=sharing)), Michał Futrega - DL for audio, NLP and video
 * 2020-05-28 	Piotr Piękos - Mathematical tasks with nlp methods
 * 2020-06-04 	
 
