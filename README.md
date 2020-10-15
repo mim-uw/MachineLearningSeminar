@@ -4,6 +4,18 @@ Seminarium magisterskie MIMUW 2019/2020
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
+## Plan spotkań 2020/2021
+
+* 2020-10-15;
+* 2020-10-22; 
+* 2020-11-05; ..., ..., Jacek Cyranka
+* 2020-11-19; ..., ..., ...
+* 2020-12-03; ..., ..., ...
+* 2020-12-17; ..., ..., ...
+* 2021-01-14; ..., ..., ...
+* 2021-01-28; ..., ..., ...
+
+
 ## Plan spotkań 2019/2020
 
 * 2019-10-03
