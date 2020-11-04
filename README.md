@@ -4,6 +4,8 @@ Seminarium magisterskie MIMUW 2019/2020
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
+Link do spotkań: http://meet.google.com/seb-fjag-hyj
+
 ## Plan spotkań 2020/2021
 
 * 2020-10-15;
