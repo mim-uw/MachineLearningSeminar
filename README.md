@@ -10,7 +10,7 @@ Link do spotkań: http://meet.google.com/seb-fjag-hyj
 
 * 2020-10-15;
 * 2020-10-22; 
-* 2020-11-05; [Jacek Cyranka (tematy prac mgr.)](https://drive.google.com/file/d/1XFUEDCnoI4-x72ggKJsVabPx6HtVtgnj/view?usp=sharing), Wojciech Jablonski, [Zuzanna Kwiatkowska, Deep Learning Based Open Set Acoustic Scene Classification](https://arxiv.org/abs/2008.07247)
+* 2020-11-05; [Jacek Cyranka (tematy prac mgr.)](https://drive.google.com/file/d/1XFUEDCnoI4-x72ggKJsVabPx6HtVtgnj/view?usp=sharing), [Wojciech Jablonski, Neural Architecture Search for Segmentation](https://docs.google.com/presentation/d/1FSSwYVuJiw-klPlLC7rwq4ikZEC27jO0LAqpiMMbEVw/edit?usp=sharing) (na podstawie [DARTS](https://arxiv.org/pdf/1806.09055.pdf), [Auto-DeepLab](https://arxiv.org/pdf/1901.02985.pdf), [DCNAS](https://arxiv.org/pdf/2003.11883.pdf)), [Zuzanna Kwiatkowska, Deep Learning Based Open Set Acoustic Scene Classification](https://arxiv.org/abs/2008.07247)
 * 2020-11-19; Zuzanna Opala, Maciej Sypetkowski
 * 2020-12-03; Jakub Modrzewski, Marta Mysiursk, ...
 * 2020-12-17; Michal Raszkowski, Piotr Krzywicki, ...
