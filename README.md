@@ -14,8 +14,8 @@ Link do spotkań: http://meet.google.com/seb-fjag-hyj
 * 2020-11-19; Zuzanna Opala, Maciej Sypetkowski ([Latent space editing in GANs](https://docs.google.com/presentation/d/1H627AmDNepd2hBVDW5f7WJEBOjClY_SZhzoScpJ753M/edit?usp=sharing) & [PGGAN, StyleGAN paper scraps](https://docs.google.com/presentation/d/1m_KjRdKPiSv_eTGsaaqGDJgu9509avsJ-_SJJMswTw8/edit?usp=sharing))
 * 2020-12-03; Jakub Modrzewski(COVID-19 AI Diagnosis using only Cough Recordings. [Presentation](https://drive.google.com/file/d/1-VZt9Z5zWh7QkGpL--St84gcwkab5Xpn/view?usp=sharing), [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9208795)), Marta Mysiurska [Multi-objective counterfactual explanation](https://drive.google.com/file/d/1bwZoeUjN2SYPHchgMnTQaexSneA02rKf/view?usp=sharing)
 * 2020-12-17; Michal Raszkowski ([Computer Vision for Autonomous Vehicles](https://docs.google.com/presentation/d/1kHg7G0g5o1rDN22v0QfyWkIljnX7kwWC1kvJ1OSPLPc/edit?usp=sharing)), [Piotr Krzywicki: Deep Learning in robotic manipulation](https://docs.google.com/presentation/d/1rJdOh9QsfTebiLpjfYyYBOVDXnAPgrVcbWh0wbN4grY/edit?usp=sharing)
-* 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński (Gravitational-wave detectors with machine learning), ...
-* 2021-01-28; Maciej Mikula, Philip Smolenski-Jensen, ...
+* 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński [Gravitational-wave detectors with machine learning)](https://drive.google.com/file/d/1zIEnw9WKEDvmCwSk2sTn3TFfeSdAbko0/view?usp=sharing)
+* 2021-01-28; Philip Smolenski-Jensen, Maciej Mikula
 
 
 ## Plan spotkań 2019/2020
