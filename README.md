@@ -4,7 +4,7 @@ Seminarium magisterskie MIMUW 2019/2020
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
-Link do spotkań: http://meet.google.com/seb-fjag-hyj
+Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
 ## Plan spotkań 2020/2021
 
@@ -16,6 +16,20 @@ Link do spotkań: http://meet.google.com/seb-fjag-hyj
 * 2020-12-17; Michal Raszkowski ([Computer Vision for Autonomous Vehicles](https://docs.google.com/presentation/d/1kHg7G0g5o1rDN22v0QfyWkIljnX7kwWC1kvJ1OSPLPc/edit?usp=sharing)), [Piotr Krzywicki: Deep Learning in robotic manipulation](https://docs.google.com/presentation/d/1rJdOh9QsfTebiLpjfYyYBOVDXnAPgrVcbWh0wbN4grY/edit?usp=sharing)
 * 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński [Gravitational-wave detectors with machine learning)](https://drive.google.com/file/d/1zIEnw9WKEDvmCwSk2sTn3TFfeSdAbko0/view?usp=sharing)
 * 2021-01-28; Philip Smolenski-Jensen, Maciej Mikula
+
+* 2021-03-04 
+* 2021-03-11 
+* 2021-03-18 
+* 2021-03-25 
+* 2021-04-08 
+* 2021-04-15 
+* 2021-04-22 
+* 2021-04-29 
+* 2021-05-06 
+* 2021-05-13 
+* 2021-05-20 
+* 2021-05-27 
+* 2021-06-10 
 
 
 ## Plan spotkań 2019/2020
