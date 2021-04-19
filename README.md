@@ -19,7 +19,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
 * 2021-03-04 
 * 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała - Memory-Augmented NN
-* 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - ?
+* 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - [Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://drive.google.com/file/d/1Lv4nY9RqhMpgCyNHPOJTJhrbOmR9mPVt/view?usp=sharing)
 * 2021-04-22; Philip Smolenski-Jensen - ?; 
 * 2021-05-06; Zuzanna Kwiatkowska - wizualizacja działania NN
 * 2021-05-20 
