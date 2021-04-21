@@ -20,7 +20,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-03-04 
 * 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała - Memory-Augmented NN
 * 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - ?
-* 2021-04-22; Philip Smolenski-Jensen - ?; 
+* 2021-04-29; Philip Smolenski-Jensen - ?; 
 * 2021-05-06; Zuzanna Kwiatkowska - wizualizacja działania NN
 * 2021-05-20 
 * 2021-06-10 
