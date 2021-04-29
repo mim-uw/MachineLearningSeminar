@@ -16,10 +16,9 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2020-12-17; Michal Raszkowski ([Computer Vision for Autonomous Vehicles](https://docs.google.com/presentation/d/1kHg7G0g5o1rDN22v0QfyWkIljnX7kwWC1kvJ1OSPLPc/edit?usp=sharing)), [Piotr Krzywicki: Deep Learning in robotic manipulation](https://docs.google.com/presentation/d/1rJdOh9QsfTebiLpjfYyYBOVDXnAPgrVcbWh0wbN4grY/edit?usp=sharing)
 * 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński [Gravitational-wave detectors with machine learning)](https://drive.google.com/file/d/1zIEnw9WKEDvmCwSk2sTn3TFfeSdAbko0/view?usp=sharing)
 * 2021-01-28; Philip Smolenski-Jensen, Maciej Mikula
-
 * 2021-03-04 
 * 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała ([Robust High-dimensional Memory-augmented Neural Networks](https://docs.google.com/presentation/d/1GR8FFrkQniRRWUHscVf8afW56Egsvua71pUskbxs8ww/edit?usp=sharing))
-* 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - ?
+* 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - [Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://drive.google.com/file/d/1Lv4nY9RqhMpgCyNHPOJTJhrbOmR9mPVt/view?usp=sharing)
 * 2021-04-29; Philip Smolenski-Jensen - ?; 
 * 2021-05-06; Zuzanna Kwiatkowska - wizualizacja działania NN
 * 2021-05-20; Jakub Jasiulewicz - ?;
