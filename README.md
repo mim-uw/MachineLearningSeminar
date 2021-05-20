@@ -21,8 +21,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała ([Robust High-dimensional Memory-augmented Neural Networks](https://docs.google.com/presentation/d/1GR8FFrkQniRRWUHscVf8afW56Egsvua71pUskbxs8ww/edit?usp=sharing))
 * 2021-04-08; Maciej Mikuła - ?;  Jakub Modrzewski - [Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://drive.google.com/file/d/1Lv4nY9RqhMpgCyNHPOJTJhrbOmR9mPVt/view?usp=sharing)
 * 2021-04-29; Philip Smolenski-Jensen ([CURL - Contrastive Unsupervised Representations for Reinforcement Learning](https://docs.google.com/presentation/d/1FONAZ_LT_GsMWE4_IJtvV8mPzKHp06A7KBSQcQ_hO1Y/edit?usp=sharing)) 
-* 2021-05-06; Zuzanna Kwiatkowska - wizualizacja działania NN
-* 2021-05-20; Jakub Jasiulewicz - ?;
+* 2021-05-20; Zuzanna Kwiatkowska (On gradient-based saliency maps in deep learning: [presentation](https://drive.google.com/file/d/121vPple7ZBYjiaguEXh0qQlioRYLJOzL/view?usp=sharing), [paper](https://arxiv.org/pdf/1810.03292.pdf)); Jakub Jasiulewicz - ?;
 * 2021-06-10 
 
 ## Plan spotkań 2019/2020
