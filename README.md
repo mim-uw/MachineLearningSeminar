@@ -1,6 +1,6 @@
 # Machine Learning
 
-Seminarium magisterskie MIMUW 2019/2020
+Seminarium magisterskie MIMUW 
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
