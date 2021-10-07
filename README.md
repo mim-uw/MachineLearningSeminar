@@ -6,6 +6,11 @@ Seminarium magisterskie MIMUW
 
 Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
+## Plan spotkań 2021/2022
+* 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
+* 2021-10-14 ???
+* 2021-10-21 ???
+
 ## Plan spotkań 2020/2021
 
 * 2020-10-15;
