@@ -10,6 +10,8 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
 * 2021-10-14 NCBJ NOMATEN - prezentacja tematów
 * 2021-10-21 TCL - prezentacja tematów
+* 2021-11-04 ???
+* 2021-11-18 ???
 
 ## Plan spotkań 2020/2021
 
