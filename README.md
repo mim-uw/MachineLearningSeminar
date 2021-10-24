@@ -10,7 +10,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
 * 2021-10-14 NCBJ NOMATEN Stefanos Papanikolaou : [Prezentacja tematów](https://www.dropbox.com/s/wag10f11bjbh32i/AlavaPapanikolaou_RecruitingPresentation.pdf?dl=0)
 * 2021-10-21 TCL - [Prezentacja tematów](https://drive.google.com/file/d/1Bn6iVKbIiNiqYBjJCF4rsuyWgX8UBMZe/view?usp=sharing)
-* 2021-11-04 Zuzanna Opała "Ekstremalna klasyfikacja", Maciej Woltala "AlphaStar Algorithm and Its
+* 2021-11-04 Zuzanna Opała "Ekstremalna klasyfikacja", Maciej Wojtala "AlphaStar Algorithm and Its
 Adaptation in Portfolio Optimisation"
 * 2021-11-18 Michał Raszkowski ???, Zuzanna Kwiatkowska ???
 
