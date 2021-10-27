@@ -13,6 +13,8 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-11-04 Zuzanna Opała "Ekstremalna klasyfikacja", Maciej Wojtala "AlphaStar Algorithm and Its
 Adaptation in Portfolio Optimisation"
 * 2021-11-18 Michał Raszkowski ???, Zuzanna Kwiatkowska ???
+* 2021-12-02
+* 2021-12-16 Maciej Mikuła "Proste zaklęcia defensywne"
 
 ## Plan spotkań 2020/2021
 
