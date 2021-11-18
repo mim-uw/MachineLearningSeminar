@@ -11,9 +11,10 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-10-14 NCBJ NOMATEN Stefanos Papanikolaou : [Prezentacja tematów](https://www.dropbox.com/s/wag10f11bjbh32i/AlavaPapanikolaou_RecruitingPresentation.pdf?dl=0)
 * 2021-10-21 TCL - [Prezentacja tematów](https://drive.google.com/file/d/1Bn6iVKbIiNiqYBjJCF4rsuyWgX8UBMZe/view?usp=sharing)
 * 2021-11-04 Zuzanna Opała "[Extreme Classification](https://docs.google.com/presentation/d/1B3ppmO2JY_WdJkVQvDTkSOHWYtMkpvDUgHCmqhg5V5g/edit?usp=sharing)", Maciej Wojtala "[AlphaStar Algorithm](https://drive.google.com/file/d/1PSHdt_jXXo_i_uw7--nwsoWwhNKWZzSI/view?usp=sharing) and [Its Adaptation in Portfolio Optimisation](https://drive.google.com/file/d/1cUd63C6uNxoGfPhO9_jB8sLs_XJ87Sg7/view?usp=sharing)"
-* 2021-11-18 Michał Raszkowski ???, Zuzanna Kwiatkowska ???
-* 2021-12-02
-* 2021-12-16 Maciej Mikuła "Proste zaklęcia defensywne"
+* 2021-11-18 Zuzanna Kwiatkowska ???
+* 2021-12-02 Michał Raszkowski ???
+* 2021-12-16 Maciej Mikuła ???
+* 2022-01-13
 
 ## Plan spotkań 2020/2021
 
