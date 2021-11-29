@@ -14,7 +14,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-11-18 Zuzanna Kwiatkowska, "[State of Audio](https://drive.google.com/file/d/1tRz6MztkVQ0YiqvsI785lmPpagOiB7gX/view?usp=sharing)"
 * 2021-12-02 Michał Raszkowski ???, Szymon Tworkowski & Michał Tyrolski "[Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)"
 * 2021-12-16 Maciej Mikuła ???, Szymon Haponiuk "Neural ordinary differential equations"
-* 2022-01-13
+* 2022-01-13 Paweł Gora "RL do optymalizacji strategii w modelach nowotworów"
 
 ## Plan spotkań 2020/2021
 
