@@ -15,7 +15,14 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-12-02 Michał Raszkowski ???, Szymon Tworkowski & Michał Tyrolski "[Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)"
 * 2021-12-16 Maciej Mikuła ???, Szymon Haponiuk "[Neural ordinary differential equations](https://docs.google.com/presentation/d/1wlyJIgI2Ca3EW4weC925m5FgtZwWaVOgdTKP5VdsbY8/edit?usp=sharing)"
 * 2022-01-13 Paweł Gora "RL do optymalizacji strategii w modelach nowotworów"
-* 2022-01-27 SIGN UP NOW!
+* 2022-01-27 Cancelled
+* 2022-03-03 Kałużny Mateusz Jakub, Mysiurska Marta
+* 2022-03-17 Mysiak Aleksandra Natalia, Błajda Mateusz
+* 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
+* 2022-04-14 Smolenski-Jensen Philip Alexander, Modrzewski Jakub Maksymilian
+* 2022-04-28 Król Krystian Kamil, Wierzbiński Marcin Józef
+* 2022-05-12 Bochenek Maria Teresa
+* 2022-05-26
 
 ## Plan spotkań 2020/2021
 
