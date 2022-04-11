@@ -19,10 +19,10 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-03-03 Kałużny Mateusz Jakub "???"
 * 2022-03-17 Mysiak Aleksandra "[Dependency trees in NLP](https://docs.google.com/presentation/d/16syOIqXgYX9Zp5Lmif6uLCiiEyTrvfMOHKkWM7MZVBk/edit?usp=sharing)", Błajda Mateusz "Style GAN"
 * 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
-* 2022-04-14 Smolenski-Jensen Philip Alexander, Modrzewski Jakub Maksymilian
-* 2022-04-28 Król Krystian Kamil, Wierzbiński Marcin Józef
-* 2022-05-12 Bochenek Maria Teresa, Mysiurska Marta
-* 2022-05-26
+* 2022-04-21 Smolenski-Jensen Philip Alexander, Modrzewski Jakub Maksymilian
+* 2022-05-05 Król Krystian Kamil, Wierzbiński Marcin Józef
+* 2022-05-19 Bochenek Maria Teresa, Mysiurska Marta
+* 2022-06-02
 
 ## Plan spotkań 2020/2021
 
