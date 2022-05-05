@@ -20,7 +20,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-03-17 Mysiak Aleksandra "[Dependency trees in NLP](https://docs.google.com/presentation/d/16syOIqXgYX9Zp5Lmif6uLCiiEyTrvfMOHKkWM7MZVBk/edit?usp=sharing)", Błajda Mateusz "[Style GAN](https://drive.google.com/file/d/1VNvvwcjxzHlTEVIqYQpKOYJt9mwE-ztJ/view?usp=sharing)"
 * 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
 * 2022-04-21 Smolenski-Jensen Philip Alexander
-* 2022-05-05 Król Krystian Kamil, Wierzbiński Marcin Józef
+* 2022-05-05 Król Krystian Kamil "[All you need to know about DALL·E 2](https://drive.google.com/file/d/1NvseRe-Syasq8K6baDnpd3hcWQhDt7Td/view?usp=sharing)", Wierzbiński Marcin Józef
 * 2022-05-19 Bochenek Maria Teresa, Mysiurska Marta
 * 2022-06-02 Modrzewski Jakub Maksymilian
 
