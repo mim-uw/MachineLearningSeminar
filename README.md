@@ -13,7 +13,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-11-04 Zuzanna Opała "[Extreme Classification](https://docs.google.com/presentation/d/1B3ppmO2JY_WdJkVQvDTkSOHWYtMkpvDUgHCmqhg5V5g/edit?usp=sharing)", Maciej Wojtala "[AlphaStar Algorithm](https://drive.google.com/file/d/1PSHdt_jXXo_i_uw7--nwsoWwhNKWZzSI/view?usp=sharing) and [Its Adaptation in Portfolio Optimisation](https://drive.google.com/file/d/1cUd63C6uNxoGfPhO9_jB8sLs_XJ87Sg7/view?usp=sharing)"
 * 2021-11-18 Zuzanna Kwiatkowska, "[State of Audio](https://drive.google.com/file/d/1tRz6MztkVQ0YiqvsI785lmPpagOiB7gX/view?usp=sharing)"
 * 2021-12-02 Michał Raszkowski ???, Szymon Tworkowski & Michał Tyrolski "[Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)"
-* 2021-12-16 Maciej Mikuła ???, Szymon Haponiuk "[Neural ordinary differential equations](https://docs.google.com/presentation/d/1wlyJIgI2Ca3EW4weC925m5FgtZwWaVOgdTKP5VdsbY8/edit?usp=sharing)"
+* 2021-12-16 Maciej Mikuła [Enhancing Goal-Conditioned Reinforcement Learning agents via Planning](https://drive.google.com/file/d/1hilUngnJC8IteVkyhnuhfpiX9erWaM_S/view?usp=sharing), Szymon Haponiuk "[Neural ordinary differential equations](https://docs.google.com/presentation/d/1wlyJIgI2Ca3EW4weC925m5FgtZwWaVOgdTKP5VdsbY8/edit?usp=sharing)"
 * 2022-01-13 Paweł Gora "RL do optymalizacji strategii w modelach nowotworów"
 * 2022-01-27 Cancelled
 * 2022-03-03 Kałużny Mateusz Jakub "???"
