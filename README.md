@@ -17,7 +17,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-01-13 Paweł Gora "RL do optymalizacji strategii w modelach nowotworów"
 * 2022-01-27 Cancelled
 * 2022-03-03 Kałużny Mateusz Jakub "???"
-* 2022-03-17 Mysiak Aleksandra "[Dependency trees in NLP](https://docs.google.com/presentation/d/16syOIqXgYX9Zp5Lmif6uLCiiEyTrvfMOHKkWM7MZVBk/edit?usp=sharing)", Błajda Mateusz "Style GAN"
+* 2022-03-17 Mysiak Aleksandra "[Dependency trees in NLP](https://docs.google.com/presentation/d/16syOIqXgYX9Zp5Lmif6uLCiiEyTrvfMOHKkWM7MZVBk/edit?usp=sharing)", Błajda Mateusz "[Style GAN](https://drive.google.com/file/d/1VNvvwcjxzHlTEVIqYQpKOYJt9mwE-ztJ/view?usp=sharing)"
 * 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
 * 2022-04-21 Smolenski-Jensen Philip Alexander
 * 2022-05-05 Król Krystian Kamil, Wierzbiński Marcin Józef
