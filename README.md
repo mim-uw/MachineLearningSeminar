@@ -21,7 +21,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
 * 2022-04-21 Smolenski-Jensen Philip Alexander
 * 2022-05-05 Król Krystian Kamil "[All you need to know about DALL·E 2](https://drive.google.com/file/d/1NvseRe-Syasq8K6baDnpd3hcWQhDt7Td/view?usp=sharing)", Wierzbiński Marcin Józef
-* 2022-05-19 Bochenek Maria Teresa, Mysiurska Marta
+* 2022-05-19 ~~Bochenek Maria Teresa~~, Mysiurska Marta
 * 2022-06-02 Modrzewski Jakub Maksymilian
 
 ## Plan spotkań 2020/2021
