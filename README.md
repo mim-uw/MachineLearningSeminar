@@ -1,22 +1,46 @@
-﻿# Machine Learning
+# Machine Learning
 
-Seminarium magisterskie MIMUW 2019/2020
+Seminarium magisterskie MIMUW 
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
-Link do spotkań: http://meet.google.com/seb-fjag-hyj
+Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
+
+## Plan spotkań 2021/2022
+* 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
+* 2021-10-14 NCBJ NOMATEN Stefanos Papanikolaou : [Prezentacja tematów](https://www.dropbox.com/s/wag10f11bjbh32i/AlavaPapanikolaou_RecruitingPresentation.pdf?dl=0)
+* 2021-10-21 TCL - [Prezentacja tematów](https://drive.google.com/file/d/1Bn6iVKbIiNiqYBjJCF4rsuyWgX8UBMZe/view?usp=sharing)
+* 2021-11-04 Zuzanna Opała "[Extreme Classification](https://docs.google.com/presentation/d/1B3ppmO2JY_WdJkVQvDTkSOHWYtMkpvDUgHCmqhg5V5g/edit?usp=sharing)", Maciej Wojtala "[AlphaStar Algorithm](https://drive.google.com/file/d/1PSHdt_jXXo_i_uw7--nwsoWwhNKWZzSI/view?usp=sharing) and [Its Adaptation in Portfolio Optimisation](https://drive.google.com/file/d/1cUd63C6uNxoGfPhO9_jB8sLs_XJ87Sg7/view?usp=sharing)"
+* 2021-11-18 Zuzanna Kwiatkowska, "[State of Audio](https://drive.google.com/file/d/1tRz6MztkVQ0YiqvsI785lmPpagOiB7gX/view?usp=sharing)"
+* 2021-12-02 Michał Raszkowski ???, Szymon Tworkowski & Michał Tyrolski "[Hierarchical Transformers Are More Efficient Language Models](https://arxiv.org/abs/2110.13711)"
+* 2021-12-16 Maciej Mikuła [Enhancing Goal-Conditioned Reinforcement Learning agents via Planning](https://drive.google.com/file/d/1hilUngnJC8IteVkyhnuhfpiX9erWaM_S/view?usp=sharing), Szymon Haponiuk "[Neural ordinary differential equations](https://docs.google.com/presentation/d/1wlyJIgI2Ca3EW4weC925m5FgtZwWaVOgdTKP5VdsbY8/edit?usp=sharing)"
+* 2022-01-13 Paweł Gora "RL do optymalizacji strategii w modelach nowotworów"
+* 2022-01-27 Cancelled
+* 2022-03-03 Kałużny Mateusz Jakub "???"
+* 2022-03-17 Mysiak Aleksandra "[Dependency trees in NLP](https://docs.google.com/presentation/d/16syOIqXgYX9Zp5Lmif6uLCiiEyTrvfMOHKkWM7MZVBk/edit?usp=sharing)", Błajda Mateusz "[Style GAN](https://drive.google.com/file/d/1VNvvwcjxzHlTEVIqYQpKOYJt9mwE-ztJ/view?usp=sharing)"
+* 2022-03-31 Tomala Krzysztof Jakub, Antoniak Szymon
+* 2022-04-21 Smolenski-Jensen Philip Alexander
+* 2022-05-05 Król Krystian Kamil "[All you need to know about DALL·E 2](https://drive.google.com/file/d/1NvseRe-Syasq8K6baDnpd3hcWQhDt7Td/view?usp=sharing)", Wierzbiński Marcin Józef
+* 2022-05-19 ~~Bochenek Maria Teresa~~, Mysiurska Marta
+* 2022-06-02 Modrzewski Jakub Maksymilian
 
 ## Plan spotkań 2020/2021
 
 * 2020-10-15;
 * 2020-10-22; 
 * 2020-11-05; [Jacek Cyranka (tematy prac mgr.)](https://drive.google.com/file/d/1XFUEDCnoI4-x72ggKJsVabPx6HtVtgnj/view?usp=sharing), [Wojciech Jablonski, Neural Architecture Search for Segmentation](https://docs.google.com/presentation/d/1FSSwYVuJiw-klPlLC7rwq4ikZEC27jO0LAqpiMMbEVw/edit?usp=sharing) (na podstawie [DARTS](https://arxiv.org/pdf/1806.09055.pdf), [Auto-DeepLab](https://arxiv.org/pdf/1901.02985.pdf), [DCNAS](https://arxiv.org/pdf/2003.11883.pdf)), [Zuzanna Kwiatkowska, Deep Learning Based Open Set Acoustic Scene Classification](https://arxiv.org/abs/2008.07247)
-* 2020-11-19; Zuzanna Opala, Maciej Sypetkowski ([Latent space editing in GANs](https://docs.google.com/presentation/d/1H627AmDNepd2hBVDW5f7WJEBOjClY_SZhzoScpJ753M/edit?usp=sharing) & [PGGAN, StyleGAN paper scraps](https://docs.google.com/presentation/d/1m_KjRdKPiSv_eTGsaaqGDJgu9509avsJ-_SJJMswTw8/edit?usp=sharing))
-* 2020-12-03; Jakub Modrzewski(COVID-19 AI Diagnosis using only Cough Recordings. [Presentation](https://drive.google.com/file/d/1-VZt9Z5zWh7QkGpL--St84gcwkab5Xpn/view?usp=sharing), [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9208795)), Marta Mysiursk, ...
-* 2020-12-17; Michal Raszkowski, Piotr Krzywicki, ...
-* 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński (Gravitational-wave detectors with machine learning), ...
-* 2021-01-28; Maciej Mikula, Philip Smolenski-Jensen, ...
-
+* 2020-11-19; Zuzanna Opala([Training a Cooperative Team in Google Football Environment Using Multi-Agent Reinforcement Learning](https://docs.google.com/presentation/d/19xMbID6WH39BsQHCsw8dXpGy-pi33oCd9gX3ZKz1Iq0/edit?usp=sharing)), Maciej Sypetkowski ([Latent space editing in GANs](https://docs.google.com/presentation/d/1H627AmDNepd2hBVDW5f7WJEBOjClY_SZhzoScpJ753M/edit?usp=sharing) & [PGGAN, StyleGAN paper scraps](https://docs.google.com/presentation/d/1m_KjRdKPiSv_eTGsaaqGDJgu9509avsJ-_SJJMswTw8/edit?usp=sharing))
+* 2020-12-03; Jakub Modrzewski(COVID-19 AI Diagnosis using only Cough Recordings. [Presentation](https://drive.google.com/file/d/1-VZt9Z5zWh7QkGpL--St84gcwkab5Xpn/view?usp=sharing), [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9208795)), Marta Mysiurska [Multi-objective counterfactual explanation](https://drive.google.com/file/d/1bwZoeUjN2SYPHchgMnTQaexSneA02rKf/view?usp=sharing)
+* 2020-12-17; Michal Raszkowski ([Computer Vision for Autonomous Vehicles](https://docs.google.com/presentation/d/1kHg7G0g5o1rDN22v0QfyWkIljnX7kwWC1kvJ1OSPLPc/edit?usp=sharing)), [Piotr Krzywicki: Deep Learning in robotic manipulation](https://docs.google.com/presentation/d/1rJdOh9QsfTebiLpjfYyYBOVDXnAPgrVcbWh0wbN4grY/edit?usp=sharing)
+* 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński [Gravitational-wave detectors with machine learning)](https://drive.google.com/file/d/1zIEnw9WKEDvmCwSk2sTn3TFfeSdAbko0/view?usp=sharing)
+* 2021-01-28; Philip Smolenski-Jensen ([AlphaFold - state-of-the-art protein folding model
+](https://docs.google.com/presentation/d/10RrCTM_N9LgCzYh_Xn-iXLz0jmfq3kCkwmt_zu0DuP4/edit?usp=sharing)), Maciej Mikula [Agent57- Outperforming the Atari Human Benchmark](https://drive.google.com/file/d/1q1i43zI8LF0aIoGw5yo__Prt6PfnzH0k/view?usp=sharing)
+* 2021-03-04 
+* 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała ([Robust High-dimensional Memory-augmented Neural Networks](https://docs.google.com/presentation/d/1GR8FFrkQniRRWUHscVf8afW56Egsvua71pUskbxs8ww/edit?usp=sharing))
+* 2021-04-08; Maciej Mikuła - [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1IQUVDIQk3q3TnDXYMStW3m9VzsBAYnI_/view?usp=sharing);  Jakub Modrzewski - [Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://drive.google.com/file/d/1Lv4nY9RqhMpgCyNHPOJTJhrbOmR9mPVt/view?usp=sharing)
+* 2021-04-29; Philip Smolenski-Jensen ([CURL - Contrastive Unsupervised Representations for Reinforcement Learning](https://docs.google.com/presentation/d/1FONAZ_LT_GsMWE4_IJtvV8mPzKHp06A7KBSQcQ_hO1Y/edit?usp=sharing)) 
+* 2021-05-20; Zuzanna Kwiatkowska (On gradient-based saliency maps in deep learning: [presentation](https://drive.google.com/file/d/121vPple7ZBYjiaguEXh0qQlioRYLJOzL/view?usp=sharing), [paper](https://arxiv.org/pdf/1810.03292.pdf)); 
+* 2021-06-10; Wojciech Jabłoński (TurboDARTS - better, faster, more efficient Neural Architecture Search); Jakub Jasiulewicz - Pretrained Transformers As Universal Computation Engines ([paper](https://arxiv.org/pdf/2103.05247.pdf), [paper](https://arxiv.org/pdf/2012.11995.pdf), [presentation](https://students.mimuw.edu.pl/~jj385649/um-sem/um-sem-2021.pdf)), Marta Mysiurska - ?; Piotr Krzywicki – [Lessons learned implementing real-world robot learning system](https://docs.google.com/presentation/d/e/2PACX-1vQTbghFdrALpNqaW7EoYBm-GDdzsgfLMo3PhJELmV3uYRpeYa7OGErozOoSF4y-Vn-PajFseqGLioqJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## Plan spotkań 2019/2020
 
