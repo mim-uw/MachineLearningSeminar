@@ -22,7 +22,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-04-21 Smolenski-Jensen Philip Alexander
 * 2022-05-05 Król Krystian Kamil "[All you need to know about DALL·E 2](https://drive.google.com/file/d/1NvseRe-Syasq8K6baDnpd3hcWQhDt7Td/view?usp=sharing)", Wierzbiński Marcin Józef
 * 2022-05-19 ~~Bochenek Maria Teresa~~, Mysiurska Marta
-* 2022-06-02 Modrzewski Jakub Maksymilian
+* 2022-06-02 Modrzewski Jakub Maksymilian "[NLP - Neural Predictor Approach](https://docs.google.com/presentation/d/1l5r44Mj9uODmBVDDmG3IzHtV8mv6zb4K/edit?usp=sharing&ouid=104896128149293750407&rtpof=true&sd=true)"
 
 ## Plan spotkań 2020/2021
 
