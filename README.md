@@ -6,6 +6,13 @@ Seminarium magisterskie MIMUW
 
 Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
+## Plan spotkań 2022/2023
+* 2022-10-20 ???
+* 2022-11-03 ???
+* 2022-11-17 ???
+* 2022-12-01 ???
+* 2022-12-15 ???
+
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
 * 2021-10-14 NCBJ NOMATEN Stefanos Papanikolaou : [Prezentacja tematów](https://www.dropbox.com/s/wag10f11bjbh32i/AlavaPapanikolaou_RecruitingPresentation.pdf?dl=0)
