@@ -7,7 +7,7 @@ Seminarium magisterskie MIMUW
 Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
 ## Plan spotkań 2022/2023
-* 2022-10-20 ???
+* 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
 * 2022-11-03 ???
 * 2022-11-17 ???
 * 2022-12-01 ???
