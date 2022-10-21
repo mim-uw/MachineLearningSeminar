@@ -1,6 +1,6 @@
 # Machine Learning
 
-Seminarium magisterskie MIMUW 
+Seminarium magisterskie MIMUW
 
 [USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
 
@@ -9,12 +9,12 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
 * 2022-11-03 ???
-* 2022-11-17 ???
+* 2022-11-17 Aleksandra Mysiak, Transformer probing, ???
 * 2022-12-01 ???
 * 2022-12-15 ???
 
 ## Plan spotkań 2021/2022
-* 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing) 
+* 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
 * 2021-10-14 NCBJ NOMATEN Stefanos Papanikolaou : [Prezentacja tematów](https://www.dropbox.com/s/wag10f11bjbh32i/AlavaPapanikolaou_RecruitingPresentation.pdf?dl=0)
 * 2021-10-21 TCL - [Prezentacja tematów](https://drive.google.com/file/d/1Bn6iVKbIiNiqYBjJCF4rsuyWgX8UBMZe/view?usp=sharing)
 * 2021-11-04 Zuzanna Opała "[Extreme Classification](https://docs.google.com/presentation/d/1B3ppmO2JY_WdJkVQvDTkSOHWYtMkpvDUgHCmqhg5V5g/edit?usp=sharing)", Maciej Wojtala "[AlphaStar Algorithm](https://drive.google.com/file/d/1PSHdt_jXXo_i_uw7--nwsoWwhNKWZzSI/view?usp=sharing) and [Its Adaptation in Portfolio Optimisation](https://drive.google.com/file/d/1cUd63C6uNxoGfPhO9_jB8sLs_XJ87Sg7/view?usp=sharing)"
@@ -34,7 +34,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 ## Plan spotkań 2020/2021
 
 * 2020-10-15;
-* 2020-10-22; 
+* 2020-10-22;
 * 2020-11-05; [Jacek Cyranka (tematy prac mgr.)](https://drive.google.com/file/d/1XFUEDCnoI4-x72ggKJsVabPx6HtVtgnj/view?usp=sharing), [Wojciech Jablonski, Neural Architecture Search for Segmentation](https://docs.google.com/presentation/d/1FSSwYVuJiw-klPlLC7rwq4ikZEC27jO0LAqpiMMbEVw/edit?usp=sharing) (na podstawie [DARTS](https://arxiv.org/pdf/1806.09055.pdf), [Auto-DeepLab](https://arxiv.org/pdf/1901.02985.pdf), [DCNAS](https://arxiv.org/pdf/2003.11883.pdf)), [Zuzanna Kwiatkowska, Deep Learning Based Open Set Acoustic Scene Classification](https://arxiv.org/abs/2008.07247)
 * 2020-11-19; Zuzanna Opala([Training a Cooperative Team in Google Football Environment Using Multi-Agent Reinforcement Learning](https://docs.google.com/presentation/d/19xMbID6WH39BsQHCsw8dXpGy-pi33oCd9gX3ZKz1Iq0/edit?usp=sharing)), Maciej Sypetkowski ([Latent space editing in GANs](https://docs.google.com/presentation/d/1H627AmDNepd2hBVDW5f7WJEBOjClY_SZhzoScpJ753M/edit?usp=sharing) & [PGGAN, StyleGAN paper scraps](https://docs.google.com/presentation/d/1m_KjRdKPiSv_eTGsaaqGDJgu9509avsJ-_SJJMswTw8/edit?usp=sharing))
 * 2020-12-03; Jakub Modrzewski(COVID-19 AI Diagnosis using only Cough Recordings. [Presentation](https://drive.google.com/file/d/1-VZt9Z5zWh7QkGpL--St84gcwkab5Xpn/view?usp=sharing), [Article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9208795)), Marta Mysiurska [Multi-objective counterfactual explanation](https://drive.google.com/file/d/1bwZoeUjN2SYPHchgMnTQaexSneA02rKf/view?usp=sharing)
@@ -42,11 +42,11 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2021-01-14; <del>Karol Kowalski</del>, Marcin Wierzbiński [Gravitational-wave detectors with machine learning)](https://drive.google.com/file/d/1zIEnw9WKEDvmCwSk2sTn3TFfeSdAbko0/view?usp=sharing)
 * 2021-01-28; Philip Smolenski-Jensen ([AlphaFold - state-of-the-art protein folding model
 ](https://docs.google.com/presentation/d/10RrCTM_N9LgCzYh_Xn-iXLz0jmfq3kCkwmt_zu0DuP4/edit?usp=sharing)), Maciej Mikula [Agent57- Outperforming the Atari Human Benchmark](https://drive.google.com/file/d/1q1i43zI8LF0aIoGw5yo__Prt6PfnzH0k/view?usp=sharing)
-* 2021-03-04 
+* 2021-03-04
 * 2021-03-18; Marcin Wierzbiński - LSTM vs GRU; Zuzanna Opała ([Robust High-dimensional Memory-augmented Neural Networks](https://docs.google.com/presentation/d/1GR8FFrkQniRRWUHscVf8afW56Egsvua71pUskbxs8ww/edit?usp=sharing))
 * 2021-04-08; Maciej Mikuła - [Relational inductive biases, deep learning, and graph networks](https://drive.google.com/file/d/1IQUVDIQk3q3TnDXYMStW3m9VzsBAYnI_/view?usp=sharing);  Jakub Modrzewski - [Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://drive.google.com/file/d/1Lv4nY9RqhMpgCyNHPOJTJhrbOmR9mPVt/view?usp=sharing)
-* 2021-04-29; Philip Smolenski-Jensen ([CURL - Contrastive Unsupervised Representations for Reinforcement Learning](https://docs.google.com/presentation/d/1FONAZ_LT_GsMWE4_IJtvV8mPzKHp06A7KBSQcQ_hO1Y/edit?usp=sharing)) 
-* 2021-05-20; Zuzanna Kwiatkowska (On gradient-based saliency maps in deep learning: [presentation](https://drive.google.com/file/d/121vPple7ZBYjiaguEXh0qQlioRYLJOzL/view?usp=sharing), [paper](https://arxiv.org/pdf/1810.03292.pdf)); 
+* 2021-04-29; Philip Smolenski-Jensen ([CURL - Contrastive Unsupervised Representations for Reinforcement Learning](https://docs.google.com/presentation/d/1FONAZ_LT_GsMWE4_IJtvV8mPzKHp06A7KBSQcQ_hO1Y/edit?usp=sharing))
+* 2021-05-20; Zuzanna Kwiatkowska (On gradient-based saliency maps in deep learning: [presentation](https://drive.google.com/file/d/121vPple7ZBYjiaguEXh0qQlioRYLJOzL/view?usp=sharing), [paper](https://arxiv.org/pdf/1810.03292.pdf));
 * 2021-06-10; Wojciech Jabłoński (TurboDARTS - better, faster, more efficient Neural Architecture Search); Jakub Jasiulewicz - Pretrained Transformers As Universal Computation Engines ([paper](https://arxiv.org/pdf/2103.05247.pdf), [paper](https://arxiv.org/pdf/2012.11995.pdf), [presentation](https://students.mimuw.edu.pl/~jj385649/um-sem/um-sem-2021.pdf)), Marta Mysiurska - ?; Piotr Krzywicki – [Lessons learned implementing real-world robot learning system](https://docs.google.com/presentation/d/e/2PACX-1vQTbghFdrALpNqaW7EoYBm-GDdzsgfLMo3PhJELmV3uYRpeYa7OGErozOoSF4y-Vn-PajFseqGLioqJ/pub?start=false&loop=false&delayms=3000&slide=id.p)
 
 ## Plan spotkań 2019/2020
@@ -59,7 +59,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2019-11-07; Krystian Koziatek - [Learning the Depths of Moving People by Watching Frozen People](https://docs.google.com/presentation/d/1w4kxk5tlTzR0tV-1mHTvqzMCvnhgG67V28BL54ZQzgE/edit?usp=sharing) + [Marek Cygan: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/1Yzkp8nZifuY-VZ0V5c4eY_Zo4hhpZgv5-tCOr-dnVXM/edit?usp=sharing)
 * 2019-11-14; Mateusz Doliński - [NGBoost: Natural Gradient Boosting for Probabilistic Prediction](https://drive.google.com/file/d/1XniVuuDCZYpmL9pcwz4TpgF9cygCAoFM/view?usp=sharing)
 * 2019-11-21; Jakub Skorupski - [TossingBot: Learning to Throw Arbitrary Objects with Residual Physics](https://arxiv.org/abs/1903.11239) | [Prezentacja](https://drive.google.com/file/d/1mlgmSzErT-FVIy2kHpdborf4UUPPDa9o/view)
-* 2019-11-28; Michał Kukuła - [Graph-based sparse neural networks for traffic signal optimization](http://students.mimuw.edu.pl/~mk371127/seminarium-ml.pdf)  + ([Paweł Gora: prezentacja tematów prac magisterskich](https://drive.google.com/file/d/0B_tQx3IvcEWmNTAySE0yQnh2WU94alpON2YwNjE4ZGsyRk9j/view?usp=sharing) 
+* 2019-11-28; Michał Kukuła - [Graph-based sparse neural networks for traffic signal optimization](http://students.mimuw.edu.pl/~mk371127/seminarium-ml.pdf)  + ([Paweł Gora: prezentacja tematów prac magisterskich](https://drive.google.com/file/d/0B_tQx3IvcEWmNTAySE0yQnh2WU94alpON2YwNjE4ZGsyRk9j/view?usp=sharing)
 * 2019-12-05  [Przemek Biecek: prezentacja tematów prac magisterskich](https://github.com/pbiecek/Talks/blob/master/2019/MachineLearningSeminarMIM2019.pdf) & [Piotr Miłoś: prezentacja tematów prac magisterskich](https://docs.google.com/presentation/d/15QF2qzwV3YwaEcpTuQksxccI-0SgI3nxfzPwLdYYMyM/edit?usp=sharing)
 * 2019-12-12; Mateusz Doliński - [Wild patterns: Ten years after the rise of adversarial machine learning](https://arxiv.org/abs/1712.03141)
 * 2019-12-19 	Henryk Michalewski, Mateusz Malinowski - [Prezentacja tematów prac magisterskich](https://drive.google.com/open?id=0B_tQx3IvcEWmZ3h0Ml9NQ05OWFFNRHlyQVl5bW1FMEM3MkhF)
@@ -72,9 +72,9 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2020-03-19 	
 * 2020-03-26 	Maciej Sypetkowski -- [Presentation](http://students.mimuw.edu.pl/~ms386094/ml-sem-noisy-student-26-03-2020.pdf), [Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252)
 * 2020-04-02 	Jakub Sieroń
-* 2020-04-16 	brak seminarium 
+* 2020-04-16 	brak seminarium
 * 2020-04-23 	brak seminarium
-* 2020-04-30 	(10:15-13:15) Michał Kukuła, Jakub Skorupski, Kamil Tokarski - [Autoencoders](https://docs.google.com/presentation/d/18nieuWffjILfbDWrDXnUAXGWftGtTeIW1aeIKzfDP8w/edit?usp=sharing) 
+* 2020-04-30 	(10:15-13:15) Michał Kukuła, Jakub Skorupski, Kamil Tokarski - [Autoencoders](https://docs.google.com/presentation/d/18nieuWffjILfbDWrDXnUAXGWftGtTeIW1aeIKzfDP8w/edit?usp=sharing)
 * 2020-05-07 	
 * 2020-05-14 	
 * 2020-05-21 	(10:15-13:15)  Zuzanna Kwiatkowska ([AudioAI](https://drive.google.com/file/d/1O29x1GUHIcWjLoHh_qs92d2XVR6JE-Dy/view?usp=sharing)), Mieczysław Krawiarz ([ERASER](https://docs.google.com/presentation/d/1kIzjS9Hzu0dkMj7pKeEZRquArc7WSwf95qtZPJQUB6k/edit?usp=sharing)), Krystian Koziatek ([Skin cancer detection & ResNeSt](https://docs.google.com/presentation/d/1KVFTEit3wr8WKPI5N5RgAN-ERXXgu-2qRPI08Npb8IM/edit?usp=sharing)), Michał Futrega [Pruning](https://docs.google.com/presentation/d/1n4GUCmm-I8c4c0jwh3hejxtxSACRbQhar8lCP9l3eiQ/edit?usp=sharing) - DL for audio, NLP and video
@@ -147,6 +147,3 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2018-05-17; NeuroSAT - Learning a SAT Solver from Single-Bit Supervision https://arxiv.org/abs/1802.03685
 * 2018-05-24; Anchors: High-Precision Model-Agnostic Explanations https://homes.cs.washington.edu/~marcotcr/aaai18.pdf
 * 2018-06-07; Continuous control with deep reinforcement learning https://arxiv.org/abs/1509.02971
-
-
-
