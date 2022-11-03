@@ -11,7 +11,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-11-03 Maciej Wojtala, Best First Search-based planning algorithms in the Rubik's Cube environment
 * 2022-11-17 Aleksandra Mysiak, Transformer probing, ???
 * 2022-12-01 Bartłomiej Krzepkowski, Beyond neural scaling laws: beating power law scaling via data pruning
-* 2022-12-15 ???
+* 2022-12-15 Franciszek Szarwacki, ???
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
