@@ -8,7 +8,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
-* 2022-11-03 ???
+* 2022-11-03 Maciej Wojtala, Best First Search-based planning algorithms in the Rubik's Cube environment
 * 2022-11-17 ???
 * 2022-12-01 Bartłomiej Krzepkowski, Beyond neural scaling laws: beating power law scaling via data pruning
 * 2022-12-15 ???
