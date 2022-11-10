@@ -12,6 +12,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-11-17 Aleksandra Mysiak, Transformer probing, Szymon Tworkowski & Szymon Antoniak, [Formal Premise Selection With Language Models](http://aitp-conference.org/2022/abstract/AITP_2022_paper_32.pdf)
 * 2022-12-01 Bartłomiej Krzepkowski, Beyond neural scaling laws: beating power law scaling via data pruning
 * 2022-12-15 Franciszek Szarwacki, ???
+* 2023-01-?? Krystian Król, State of knowledge on Automated Music Transcription
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
