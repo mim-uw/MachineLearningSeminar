@@ -10,7 +10,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
 * 2022-11-03 Maciej Wojtala, Best First Search-based planning algorithms in the Rubik's Cube environment
 * 2022-11-17 Szymon Tworkowski & Szymon Antoniak, [Formal Premise Selection With Language Models](http://aitp-conference.org/2022/abstract/AITP_2022_paper_32.pdf)
-* 2022-12-01 Bartłomiej Krzepkowski, Beyond neural scaling laws: beating power law scaling via data pruning; Aleksandra Mysiak, Transformer probing
+* 2022-12-01 Bartłomiej Krzepkowski, [A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models](https://drive.google.com/file/d/1Mf92lcW6FY8n-x6wi9ZP13MFWi2P8zsp/view?usp=share_link); Aleksandra Mysiak, Transformer probing
 * 2022-12-15 Franciszek Szarwacki ???; Philip Smolenski-Jensen ???
 * 2023-01-13 Jakub Modrzewski ???; Krzysztof Tomala ???
 * 2023-01-27 Krystian Król, State of knowledge on Automated Music Transcription; Szymon Sadkowski ???
