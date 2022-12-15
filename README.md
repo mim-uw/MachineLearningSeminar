@@ -11,7 +11,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-11-03 Maciej Wojtala, Best First Search-based planning algorithms in the Rubik's Cube environment
 * 2022-11-17 Szymon Tworkowski & Szymon Antoniak, [Formal Premise Selection With Language Models](http://aitp-conference.org/2022/abstract/AITP_2022_paper_32.pdf)
 * 2022-12-01 Bartłomiej Krzepkowski, Beyond neural scaling laws: beating power law scaling via data pruning; Aleksandra Mysiak, Transformer probing
-* 2022-12-15 Franciszek Szarwacki ???; Philip Smolenski-Jensen [Bayesian Neural Networks(https://docs.google.com/presentation/d/14lpvmYIvpAKMLDLfvVbRdevw7FnfSjYPjs3Ry9-_Pt8/edit?usp=sharing)
+* 2022-12-15 Franciszek Szarwacki ???; Philip Smolenski-Jensen [Bayesian Neural Networks](https://docs.google.com/presentation/d/14lpvmYIvpAKMLDLfvVbRdevw7FnfSjYPjs3Ry9-_Pt8/edit?usp=sharing)
 * 2023-01-13 Jakub Modrzewski ???; Krzysztof Tomala ???
 * 2023-01-27 Krystian Król, State of knowledge on Automated Music Transcription; Szymon Sadkowski ???
 
