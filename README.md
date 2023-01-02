@@ -8,7 +8,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
-* 2022-11-03 Maciej Wojtala, Best First Search-based planning algorithms in the Rubik's Cube environment
+* 2022-11-03 Maciej Wojtala, [Best First Search-based planning algorithms in the Rubik's Cube environment](https://drive.google.com/file/d/1bKyHVG1-am4BWJyINcTnDEZ77D_UNCED/view?usp=sharing)
 * 2022-11-17 Szymon Tworkowski & Szymon Antoniak, [Formal Premise Selection With Language Models](http://aitp-conference.org/2022/abstract/AITP_2022_paper_32.pdf)
 * 2022-12-01 Bartłomiej Krzepkowski, [A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models](https://drive.google.com/file/d/1Mf92lcW6FY8n-x6wi9ZP13MFWi2P8zsp/view?usp=share_link); Aleksandra Mysiak, Transformer probing
 * 2022-12-15 Franciszek Szarwacki [Make-a-video: Text-to-Video Generation without Text-Video Data](https://docs.google.com/presentation/d/1c0TwM3tIzS6dfeGyYCJUjnOx-fskSq9YLxyDGuG7L1k/edit?usp=sharing); Philip Smolenski-Jensen [Bayesian Neural Networks](https://docs.google.com/presentation/d/14lpvmYIvpAKMLDLfvVbRdevw7FnfSjYPjs3Ry9-_Pt8/edit?usp=sharing)
