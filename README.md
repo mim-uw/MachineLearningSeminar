@@ -13,7 +13,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-12-01 Bartłomiej Krzepkowski, [A Global Past-Future Early Exit Method for Accelerating Inference of Pre-trained Language Models](https://drive.google.com/file/d/1Mf92lcW6FY8n-x6wi9ZP13MFWi2P8zsp/view?usp=share_link); Aleksandra Mysiak, Transformer probing
 * 2022-12-15 Franciszek Szarwacki [Make-a-video: Text-to-Video Generation without Text-Video Data](https://docs.google.com/presentation/d/1c0TwM3tIzS6dfeGyYCJUjnOx-fskSq9YLxyDGuG7L1k/edit?usp=sharing); Philip Smolenski-Jensen [Bayesian Neural Networks](https://docs.google.com/presentation/d/14lpvmYIvpAKMLDLfvVbRdevw7FnfSjYPjs3Ry9-_Pt8/edit?usp=sharing)
 * 2023-01-12 Jakub Modrzewski ???; Krzysztof Tomala ???
-* 2023-01-26 Krystian Król, State of knowledge on Automated Music Transcription; Szymon Sadkowski ???
+* 2023-01-26 Krystian Król, [State of knowledge on Automatic Music Transcription](https://docs.google.com/presentation/d/16uN9rRvy2ha68rwnBOE0AxLfaEKMOon-PeP2TF13zpI/edit?usp=sharing); Szymon Sadkowski ???
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
