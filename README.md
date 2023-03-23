@@ -14,6 +14,9 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2022-12-15 Franciszek Szarwacki [Make-a-video: Text-to-Video Generation without Text-Video Data](https://docs.google.com/presentation/d/1c0TwM3tIzS6dfeGyYCJUjnOx-fskSq9YLxyDGuG7L1k/edit?usp=sharing); Philip Smolenski-Jensen [Bayesian Neural Networks](https://docs.google.com/presentation/d/14lpvmYIvpAKMLDLfvVbRdevw7FnfSjYPjs3Ry9-_Pt8/edit?usp=sharing)
 * 2023-01-12 Jakub Modrzewski ???; Krzysztof Tomala ???
 * 2023-01-26 Krystian Król, [State of knowledge on Automatic Music Transcription](https://docs.google.com/presentation/d/16uN9rRvy2ha68rwnBOE0AxLfaEKMOon-PeP2TF13zpI/edit?usp=sharing); Szymon Sadkowski [How Close is ChatGPT to Human Experts](https://docs.google.com/presentation/d/1DJhOMivto5mZ5rs78lvZyvGxRvIfH_KlWwsGXBnpM-o/edit?usp=sharing)
+* 2023-03-09 Spotkanie organizacyjne
+* 2023-03-23 Jakub Modrzewski [ConvNeXt - A ConvNet for the 2020s](https://docs.google.com/presentation/d/1-1Qo4vSGC1MA6DJp4BaiEhdH21etNnfn/edit?usp=sharing&ouid=104896128149293750407&rtpof=true&sd=true); Propozycje tematów [Transformers for ML Seminar](https://docs.google.com/document/d/1I9dvYzXPYusY4QwgOkorWVihBznbv53XbjcjscF3aOw/edit)
+* 2023-03-13 ?
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
