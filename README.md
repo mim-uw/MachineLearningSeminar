@@ -17,7 +17,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2023-03-09 Spotkanie organizacyjne
 * 2023-03-23 Jakub Modrzewski [ConvNeXt - A ConvNet for the 2020s](https://docs.google.com/presentation/d/1-1Qo4vSGC1MA6DJp4BaiEhdH21etNnfn/edit?usp=sharing&ouid=104896128149293750407&rtpof=true&sd=true); Propozycje tematów [Transformers for ML Seminar](https://docs.google.com/document/d/1I9dvYzXPYusY4QwgOkorWVihBznbv53XbjcjscF3aOw/edit)
 * 2023-04-13 Igor Witkowski, Learning to Play Atari with the Help of Instruction Manuals
-* 2023-04-27 ?
+* 2023-04-27 Mateusz Kaluzny, A Mathematical Framework for Transformer Circuits
 * 2023-05-11 Michał Sala ???
 * 2023-05-18 ?
 
