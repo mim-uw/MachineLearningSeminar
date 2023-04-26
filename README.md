@@ -19,7 +19,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2023-04-13 Igor Witkowski, Learning to Play Atari with the Help of Instruction Manuals
 * 2023-05-04 Mateusz Kaluzny, A Mathematical Framework for Transformer Circuits
 * 2023-05-11 Michał Sala ???
-* 2023-05-18 ?
+* 2023-05-18 Michał Tyrolski (Fast and Precise: Adjusting Planning Horizon with Adaptive Subgoal Search)
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
