@@ -21,7 +21,7 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2023-05-11 Michał Sala ???
 * 2023-05-18 Michał Tyrolski (Fast and Precise: Adjusting Planning Horizon with Adaptive Subgoal Search)
 * 2023-05-25 
-* 2023-06-01 
+* 2023-06-01 Radosław Jurczak (Transformers on protein sequences: how & why)
 * 2023-06-15 
 
 ## Plan spotkań 2021/2022
