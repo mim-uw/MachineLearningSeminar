@@ -21,8 +21,8 @@ Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
 * 2023-05-11 Michał Sala ???
 * 2023-05-18 Michał Tyrolski (Fast and Precise: Adjusting Planning Horizon with Adaptive Subgoal Search)
 * 2023-05-25 
-* 2023-06-01 Radosław Jurczak (Transformers on protein sequences: how & why); Witold Drzewakowski (TBA)
-* 2023-06-15 
+* 2023-06-01 Witold Drzewakowski (TBA)
+* 2023-06-15 Radosław Jurczak (Transformers on protein sequences: how & why)
 
 ## Plan spotkań 2021/2022
 * 2021-10-07 Spotkanie organizacyjne. Łukasz Kuciński : [Prezentacja tematów z RL-a](https://docs.google.com/presentation/d/1BnoASprAroK6n2UCzSbqcyEXufNhYh9Lq6HW5MtycOI/edit?usp=sharing)
