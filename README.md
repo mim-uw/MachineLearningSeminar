@@ -2,9 +2,21 @@
 
 Seminarium magisterskie MIMUW
 
-[USOS](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-5D17UM)
-
-Link do spotkań: https://meet.google.com/uum-atjz-fvh (zmiana linku)
+## Plan spotkań 2023/2024
+* 2023-10-05 spotkanie organizacyjne
+* 2023-10-12	
+* 2023-10-19	
+* 2023-10-26	
+* 2023-11-09	
+* 2023-11-16	
+* 2023-11-23	
+* 2023-11-30	
+* 2023-12-07	
+* 2023-12-14	
+* 2023-12-21	
+* 2024-01-11	
+* 2024-01-18	
+* 2024-01-25	
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
