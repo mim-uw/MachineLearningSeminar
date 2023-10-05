@@ -9,7 +9,7 @@ Seminarium magisterskie MIMUW
 * 2023-10-26	
 * 2023-11-09	
 * 2023-11-16	
-* 2023-11-23	
+* 2023-11-23	Franciszek Szarwacki
 * 2023-11-30	
 * 2023-12-07	
 * 2023-12-14	
