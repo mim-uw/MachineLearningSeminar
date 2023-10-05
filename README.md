@@ -3,10 +3,10 @@
 Seminarium magisterskie MIMUW
 
 ## Plan spotkań 2023/2024
-* 2023-10-05 spotkanie organizacyjne
-* 2023-10-12	
-* 2023-10-19	
-* 2023-10-26	
+* 2023-10-05  spotkanie organizacyjne
+* 2023-10-12	przykłady projektów magisterskich
+* 2023-10-19	Maksymilian Grochowski (TBD)
+* 2023-10-26	Władysław Pałucki (TBD)
 * 2023-11-09	Maciej Sygnowski (TBD)
 * 2023-11-16	Kamil Jonak (TBD)
 * 2023-11-23	Franciszek Szarwacki (TBD)
