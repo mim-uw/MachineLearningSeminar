@@ -7,8 +7,8 @@ Seminarium magisterskie MIMUW
 * 2023-10-12	
 * 2023-10-19	
 * 2023-10-26	
-* 2023-11-09	
-* 2023-11-16	
+* 2023-11-09	Maciej Sygnowski 
+* 2023-11-16	Kamil Jonak
 * 2023-11-23	
 * 2023-11-30	
 * 2023-12-07 Kamil Ciebiera (TBD)
