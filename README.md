@@ -13,7 +13,7 @@ Seminarium magisterskie MIMUW
 * 2023-11-30	Ewa Dobrowolska (TBD)
 * 2023-12-07  Kamil Ciebiera (TBD)
 * 2023-12-14	
-* 2023-12-21
+* 2023-12-21  Witold Drzewakowski (TBD)
 * 2024-01-11	Przemysław Pietrzak (TBD)
 * 2024-01-18	
 * 2024-01-25	
