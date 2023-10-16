@@ -12,7 +12,7 @@ Seminarium magisterskie MIMUW
 * 2023-11-23	Franciszek Szarwacki (TBD)
 * 2023-11-30	Ewa Dobrowolska (TBD)
 * 2023-12-07  Kamil Ciebiera (TBD)
-* 2023-12-14	Bartłomiej Sadlej (TBD)
+* 2023-12-14	Bartłomiej Sadlej [https://voyager.minedojo.org/assets/documents/voyager.pdf]
 * 2023-12-21  Witold Drzewakowski (TBD)
 * 2024-01-11	Przemysław Pietrzak (TBD)
 * 2024-01-18	Maciej Białobrzeski (TBD)
