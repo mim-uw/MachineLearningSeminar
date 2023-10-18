@@ -5,7 +5,7 @@ Seminarium magisterskie MIMUW
 ## Plan spotkań 2023/2024
 * 2023-10-05  spotkanie organizacyjne
 * 2023-10-12	przykłady projektów magisterskich
-* 2023-10-19	Maksymilian Grochowski (TBD)
+* 2023-10-19	Maksymilian Grochowski [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
 * 2023-10-26	Władysław Pałucki (TBD)
 * 2023-11-09	Maciej Sygnowski (TBD)
 * 2023-11-16	Kamil Jonak (TBD)
