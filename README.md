@@ -16,7 +16,7 @@ Seminarium magisterskie MIMUW
 * 2023-12-21  Witold Drzewakowski (TBD)
 * 2024-01-11	Przemysław Pietrzak (TBD)
 * 2024-01-18	Maciej Białobrzeski (TBD)
-* 2024-01-25	
+* 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
