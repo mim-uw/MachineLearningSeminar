@@ -9,7 +9,7 @@ Seminarium magisterskie MIMUW
 * 2023-10-26	Władysław Pałucki (TBD)
 * 2023-11-09	Maciej Sygnowski (TBD)
 * 2023-11-16	Kamil Jonak (TBD), Witold Drzewakowski ([Eureka](https://arxiv.org/abs/2310.12931)), Mateusz Boruń (TBD)
-* 2023-11-23	Franciszek Szarwacki (TBD)
+* 2023-11-23	Franciszek Szarwacki ([Can Large Language Models Reason about Program Invariants?](https://openreview.net/pdf?id=mXv2aVqUGG))
 * 2023-11-30	Ewa Dobrowolska (TBD)
 * 2023-12-07  Kamil Ciebiera (TBD)
 * 2023-12-14	Bartłomiej Sadlej [Autogen](https://github.com/microsoft/autogen#autogen)
