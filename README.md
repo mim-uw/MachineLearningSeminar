@@ -6,8 +6,8 @@ Seminarium magisterskie MIMUW
 * 2023-10-05  spotkanie organizacyjne
 * 2023-10-12	przykłady projektów magisterskich
 * 2023-10-19	Maksymilian Grochowski [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
-* 2023-10-26	Władysław Pałucki (TBD)
-* 2023-11-09	Maciej Sygnowski (TBD)
+* 2023-10-26	-
+* 2023-11-09	Władek Pałucki [Reward Design with Language Models](https://arxiv.org/abs/2303.00001), Maciej Sygnowski (TBD)
 * 2023-11-16	Kamil Jonak (TBD), Witold Drzewakowski ([Eureka](https://arxiv.org/abs/2310.12931)), Mateusz Boruń (TBD)
 * 2023-11-23	Franciszek Szarwacki (TBD)
 * 2023-11-30	Ewa Dobrowolska (TBD)
