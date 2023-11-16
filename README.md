@@ -14,7 +14,8 @@ Seminarium magisterskie MIMUW
 * 2023-12-07  Kamil Ciebiera (TBD)
 * 2023-12-14	Bartłomiej Sadlej [Autogen](https://github.com/microsoft/autogen#autogen)
 * 2023-12-21  Witold Drzewakowski (TBD)
-* 2024-01-11	Przemysław Pietrzak (TBD)
+* 2024-01-11	Przemysław Pietrzak ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
+ (https://arxiv.org/abs/2308.07201)
 * 2024-01-18	Maciej Białobrzeski (TBD)
 * 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów)
 
