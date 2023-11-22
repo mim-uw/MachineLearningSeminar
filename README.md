@@ -8,7 +8,7 @@ Seminarium magisterskie MIMUW
 * 2023-10-19	Maksymilian Grochowski [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
 * 2023-10-26	-
 * 2023-11-09	Władek Pałucki [Reward Design with Language Models](https://arxiv.org/abs/2303.00001), Maciej Sygnowski (TBD)
-* 2023-11-16	Witold Drzewakowski ([Eureka](https://arxiv.org/abs/2310.12931)), Mateusz Boruń (TBD)
+* 2023-11-16	Witold Drzewakowski ([Eureka](https://arxiv.org/abs/2310.12931)), Mateusz Boruń ([Universal Approximation Theorem for MLP](http://neuralnetworksanddeeplearning.com/chap4.html))
 * 2023-11-23	Franciszek Szarwacki ([Can Large Language Models Reason about Program Invariants?](https://openreview.net/pdf?id=mXv2aVqUGG))
 * 2023-11-30	Ewa Dobrowolska (TBD), Kamil Jonak ([LLM as General Pattern Machines](https://arxiv.org/abs/2307.04721?fbclid=IwAR2iP7irl2dvT_NhlsgmyzFDuHuSm2Hk4oN11AfKNl747SJgFnVrToCM4fU))
 * 2023-12-07  Kamil Ciebiera [LLMs and the Abstraction and Reasoning Corpus](https://arxiv.org/pdf/2305.18354.pdf), Krystian Król [Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/pdf/2310.02446.pdf)
