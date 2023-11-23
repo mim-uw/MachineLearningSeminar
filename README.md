@@ -15,7 +15,7 @@ Seminarium magisterskie MIMUW
 * 2023-12-14	Bartłomiej Sadlej [Autogen](https://github.com/microsoft/autogen#autogen)
 * 2023-12-21  
 * 2024-01-11	Przemysław Pietrzak ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
- (https://arxiv.org/abs/2308.07201)
+ (https://arxiv.org/abs/2308.07201), Michał Traczyk How to Catch an AI Liar: Lie Detection in Black-Box LLMs by Asking Unrelated Questions[2308.07201]
 * 2024-01-18	Maciej Białobrzeski [The Reversal Curse:LLMs trained on “A is B” fail to learn “B is A”](https://arxiv.org/pdf/2309.12288.pdf)
 * 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów)
 
