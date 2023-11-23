@@ -13,7 +13,7 @@ Seminarium magisterskie MIMUW
 * 2023-11-30	Ewa Dobrowolska (TBD), Kamil Jonak ([LLM as General Pattern Machines](https://arxiv.org/abs/2307.04721?fbclid=IwAR2iP7irl2dvT_NhlsgmyzFDuHuSm2Hk4oN11AfKNl747SJgFnVrToCM4fU))
 * 2023-12-07  Kamil Ciebiera [LLMs and the Abstraction and Reasoning Corpus](https://arxiv.org/pdf/2305.18354.pdf), Krystian Król [Low-Resource Languages Jailbreak GPT-4](https://arxiv.org/pdf/2310.02446.pdf)
 * 2023-12-14	Bartłomiej Sadlej [Autogen](https://github.com/microsoft/autogen#autogen)
-* 2023-12-21  Witold Drzewakowski (TBD)
+* 2023-12-21  
 * 2024-01-11	Przemysław Pietrzak ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
  (https://arxiv.org/abs/2308.07201)
 * 2024-01-18	Maciej Białobrzeski [The Reversal Curse:LLMs trained on “A is B” fail to learn “B is A”](https://arxiv.org/pdf/2309.12288.pdf)
