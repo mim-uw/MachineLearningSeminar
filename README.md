@@ -16,7 +16,7 @@ Seminarium magisterskie MIMUW
 * 2023-12-21  
 * 2024-01-11	Przemysław Pietrzak [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201) [slides](https://docs.google.com/presentation/d/1knu42Xzg2iO_6q9jpmXeXhemzNsTox04vGxcOniWazg/edit?usp=sharing)
 * 2024-01-18	Maciej Białobrzeski [The Reversal Curse:LLMs trained on “A is B” fail to learn “B is A”](https://arxiv.org/pdf/2309.12288.pdf)
-* 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów)
+* 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów), Maciej Raczuk [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
