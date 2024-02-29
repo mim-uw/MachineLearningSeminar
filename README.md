@@ -22,7 +22,8 @@ Seminarium magisterskie MIMUW
 * 2024-03-14 Bartłomiej Sadlej i Stanisław Świątkowski - Consistency Models https://arxiv.org/abs/2303.01469
 * 2024-03-21 
 * 2024-03-26 
-* 2024-04-04 
+* 2024-04-04 Przemysław Pietrzak i  Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
+for Transformers](https://arxiv.org/abs/2402.05602)
 * 2024-04-11 
 * 2024-04-18 
 * 2024-04-25 
