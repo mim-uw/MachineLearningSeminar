@@ -21,7 +21,7 @@ Seminarium magisterskie MIMUW
 * 2024-03-07 Kamil Ciebiera + Krystian Król: MoE-Mamba + background (Mamba/Switch) [MoE-Mamba](https://arxiv.org/abs/2401.04081)
 * 2024-03-14 Bartłomiej Sadlej i Stanisław Świątkowski - Consistency Models https://arxiv.org/abs/2303.01469
 * 2024-03-21 
-* 2024-03-26 
+* 2024-03-26 Krzysztof Tomala [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 * 2024-04-04 Przemysław Pietrzak i  Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
 for Transformers](https://arxiv.org/abs/2402.05602)
 * 2024-04-11 
