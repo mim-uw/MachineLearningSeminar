@@ -26,7 +26,7 @@ Seminarium magisterskie MIMUW
 * 2024-04-11 Przemysław Pietrzak i  Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
 for Transformers](https://arxiv.org/abs/2402.05602)
 * 2024-04-18 
-* 2024-04-25 
+* 2024-04-25 Franciszek Szarwacki (TBA)
 * 2024-05-09 
 * 2024-05-16 
 * 2024-05-23 
