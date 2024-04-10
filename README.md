@@ -23,8 +23,8 @@ Seminarium magisterskie MIMUW
 * 2024-03-21 
 * 2024-03-26 Krzysztof Tomala [Solving olympiad geometry without human demonstrations](https://www.nature.com/articles/s41586-023-06747-5)
 * 2024-04-04 Ewa Dobrowolska [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://arxiv.org/pdf/2403.09629.pdf)
-* 2024-04-11 Przemysław Pietrzak i  Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
-for Transformers](https://arxiv.org/abs/2402.05602)
+* 2024-04-11 Przemysław Pietrzak i Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
+for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.google.com/file/d/1v6zPVBr2dqsNJFZC45J7ddqj0fj3rEnv/view?usp=sharing)
 * 2024-04-18 
 * 2024-04-25 Franciszek Szarwacki (TBA)
 * 2024-05-09 
