@@ -7,7 +7,7 @@ Seminarium magisterskie MIMUW
 * 2023-10-12	przykłady projektów magisterskich
 * 2023-10-19	Maksymilian Grochowski [VOYAGER: An Open-Ended Embodied Agent with Large Language Models](https://voyager.minedojo.org/assets/documents/voyager.pdf)
 * 2023-10-26	-
-* 2023-11-09	Władek Pałucki [Reward Design with Language Models](https://arxiv.org/abs/2303.00001), Maciej Sygnowski (TBD)
+* 2023-11-09	Władek Pałucki [Reward Design with Language Models](https://arxiv.org/abs/2303.00001), Maciej Sygnowski [ProAgent: Building Proactive Cooperative AI with Large Language Models](https://arxiv.org/pdf/2308.11339.pdf)
 * 2023-11-16	Witold Drzewakowski ([Eureka](https://arxiv.org/abs/2310.12931)), Mateusz Boruń ([Universal Approximation Theorem for MLP](http://neuralnetworksanddeeplearning.com/chap4.html))
 * 2023-11-23	Franciszek Szarwacki (Can Large Language Models Reason about Program Invariants? [Paper](https://openreview.net/pdf?id=mXv2aVqUGG), [Slides](https://docs.google.com/presentation/d/1zMHMt7krLMO23OAEOgdxfXisUP0jWJA2vetFk_8IZd8/edit?usp=sharing))
 * 2023-11-30	Ewa Dobrowolska [Code as Policies: Language Model Programs for Embodied Control](https://arxiv.org/pdf/2209.07753.pdf), Kamil Jonak ([LLM as General Pattern Machines](https://arxiv.org/abs/2307.04721?fbclid=IwAR2iP7irl2dvT_NhlsgmyzFDuHuSm2Hk4oN11AfKNl747SJgFnVrToCM4fU))
@@ -31,7 +31,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-05-16 
 * 2024-05-23 
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
-* 2024-06-13 
+* 2024-06-13 Kamil Jonak (TBD), Maciej Sygnowski (TBD)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
