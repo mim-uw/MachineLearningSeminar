@@ -30,7 +30,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-05-09 
 * 2024-05-16 
 * 2024-05-23 
-* 2024-06-06 
+* 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
 * 2024-06-13 
 
 ## Plan spotkań 2022/2023
