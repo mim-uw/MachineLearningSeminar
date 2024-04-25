@@ -28,7 +28,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-04-18 
 * 2024-04-25 Franciszek Szarwacki (TBA)
 * 2024-05-09 Michał Sala (TBA)
-* 2024-05-16 Radosław Jurczak (TBA)
+* 2024-05-16 Radosław Jurczak [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324)
 * 2024-05-23 
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
 * 2024-06-13 Kamil Jonak (TBD), Maciej Sygnowski (TBD)
