@@ -29,7 +29,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-04-25 Franciszek Szarwacki (TBA)
 * 2024-05-09 Michał Sala (TBA)
 * 2024-05-16 
-* 2024-05-23 
+* 2024-05-23 Witold Drzewakowski ([NLHF](https://arxiv.org/abs/2312.00886))
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
 * 2024-06-13 Kamil Jonak (TBD), Maciej Sygnowski (TBD)
 
