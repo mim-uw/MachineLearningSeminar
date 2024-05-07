@@ -27,7 +27,7 @@ Seminarium magisterskie MIMUW
 for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.google.com/file/d/1NTL_eIe7O5-mX3kbXfvEOIk3ch_Ldpvt/view?usp=sharing)
 * 2024-04-18 
 * 2024-04-25 Franciszek Szarwacki (TBA)
-* 2024-05-09 Michał Sala (TBA)
+* 2024-05-09 Michał Sala [Musika! Fast Infinite Waveform Music Generation](https://arxiv.org/abs/2208.08706)
 * 2024-05-16 
 * 2024-05-23 
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
