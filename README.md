@@ -26,9 +26,9 @@ Seminarium magisterskie MIMUW
 * 2024-04-11 Przemysław Pietrzak i Paweł Wojciechowski [AttnLRP: Attention-Aware Layer-wise Relevance Propagation
 for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.google.com/file/d/1NTL_eIe7O5-mX3kbXfvEOIk3ch_Ldpvt/view?usp=sharing)
 * 2024-04-18 
-* 2024-04-25 Franciszek Szarwacki (TBA)
+* 2024-04-25 Franciszek Szarwacki [Fast and Robust Early-Exiting Framework for Autoregressive Language Models with Synchronized Parallel Decoding](https://arxiv.org/abs/2310.05424) ([Slides](https://docs.google.com/presentation/d/1LKpSUQcF0M-lNA5ygNayAwov-RqrpCBcQYfmaD8N170/edit?usp=sharing))
 * 2024-05-09 Michał Sala [Musika! Fast Infinite Waveform Music Generation](https://arxiv.org/abs/2208.08706)
-* 2024-05-16 
+* 2024-05-16 Radosław Jurczak [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324)
 * 2024-05-23 
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
 * 2024-06-13 Kamil Jonak (TBD), Maciej Sygnowski (TBD)
