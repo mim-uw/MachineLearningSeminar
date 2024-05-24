@@ -31,7 +31,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-05-16 Radosław Jurczak [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324) [slides](https://drive.google.com/file/d/1x221bbDbYvJMhOH1MbQNkhEXVDTv71my/view?usp=sharing), Piotr Kamiński [GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER](https://arxiv.org/pdf/2308.06463)
 * 2024-05-23 Witold Drzewakowski [NLHF](https://arxiv.org/abs/2312.00886), Mateusz Szymański [VampNet: Music Generation via Masked Acoustic Token Modeling](https://arxiv.org/pdf/2307.04686)
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
-* 2024-06-13 Szymon Sadkowski (TBD), Maciej Sygnowski (TBD)
+* 2024-06-13 Szymon Sadkowski (TBD)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
