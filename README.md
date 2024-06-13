@@ -16,7 +16,7 @@ Seminarium magisterskie MIMUW
 * 2023-12-21  
 * 2024-01-11	Przemysław Pietrzak [ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate](https://arxiv.org/abs/2308.07201) [slides](https://docs.google.com/presentation/d/1knu42Xzg2iO_6q9jpmXeXhemzNsTox04vGxcOniWazg/edit?usp=sharing)
 * 2024-01-18	Maciej Białobrzeski [The Reversal Curse:LLMs trained on “A is B” fail to learn “B is A”](https://arxiv.org/pdf/2309.12288.pdf)
-* 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów), Maciej Raczuk [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)
+* 2024-01-25	Mikael Jaworowski (zastosowania Random Matrix Theory w przewidywaniu siły wiązania się potencjalnych leków do wybranych receptorów), Maciej Raczuk [Discovering faster matrix multiplication algorithms with reinforcement learning](https://www.nature.com/articles/s41586-022-05172-4)([slides](https://www.overleaf.com/read/kvdgghytxynm#b74bb7))
 * 2024-02-29 spotkanie organizacyjne - semestr letni
 * 2024-03-07 Kamil Ciebiera + Krystian Król: MoE-Mamba + background (Mamba/Switch) [Slajdy](https://docs.google.com/presentation/d/1SYMUzSjQqSCP7CrRar7diUb4pSHJ-sf5iykRr4RTefo/edit?usp=sharing)
 * 2024-03-14 Bartłomiej Sadlej i Stanisław Świątkowski - Consistency Models https://arxiv.org/abs/2303.01469
@@ -31,7 +31,7 @@ for Transformers](https://arxiv.org/abs/2402.05602) [Slides](https://drive.googl
 * 2024-05-16 Radosław Jurczak [Evaluating the Moral Beliefs Encoded in LLMs](https://arxiv.org/abs/2307.14324) [slides](https://drive.google.com/file/d/1x221bbDbYvJMhOH1MbQNkhEXVDTv71my/view?usp=sharing), Piotr Kamiński [GPT-4 IS TOO SMART TO BE SAFE: STEALTHY CHAT WITH LLMS VIA CIPHER](https://arxiv.org/pdf/2308.06463)
 * 2024-05-23 Witold Drzewakowski [NLHF](https://arxiv.org/abs/2312.00886), Mateusz Szymański [VampNet: Music Generation via Masked Acoustic Token Modeling](https://arxiv.org/pdf/2307.04686)
 * 2024-06-06 Władek Pałucki (TBD), Maks Grochowski (TBD)
-* 2024-06-13 Szymon Sadkowski (TBD)
+* 2024-06-13 Szymon Sadkowski (TBD), Maciej Raczuk [Language models can explain neurons in language models](https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html)
 
 ## Plan spotkań 2022/2023
 * 2022-10-20 Łukasz Kuciński, Research topics in RL and Deep Learning.
