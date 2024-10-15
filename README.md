@@ -5,7 +5,7 @@ Seminarium magisterskie MIMUW
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
 * 2024-10-10 spotkanie organizacyjne
-* 2024-10-17 Kamil Ciebiera - Mamba (TBA)
+* 2024-10-17 Kamil Ciebiera - Mamba (TBA), Ewa Dobrowolska - [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/abs/2402.02868)
 
 ## Plan spotkań 2023/2024
 * 2023-10-05  spotkanie organizacyjne
