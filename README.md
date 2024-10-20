@@ -6,7 +6,7 @@ Seminarium magisterskie MIMUW
 * 2024-10-03 spotkanie organizacyjne
 * 2024-10-10 spotkanie organizacyjne
 * 2024-10-17 Kamil Ciebiera - Mamba (TBA), Ewa Dobrowolska - [Fine-tuning Reinforcement Learning Models is Secretly a Forgetting Mitigation Problem](https://arxiv.org/abs/2402.02868)
-* 2024-10-24
+* 2024-10-24 Stanisław Świątkowski - [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547)
 * 2024-10-31 Piotr Kamiński - [Physics of Language Models](https://physics.allen-zhu.com)
 
 ## Plan spotkań 2023/2024
