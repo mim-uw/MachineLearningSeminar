@@ -11,7 +11,9 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2024-10-31 Piotr Kamiński - [Physics of Language Models](https://physics.allen-zhu.com)
 * 2024-11-07 Przełożone ze względu na MLinPL 
 * 2024-11-14 Paweł Wojciechowski - [Interpreting CLIP with Sparse Linear Concept Embeddings (SpLiCE)](https://arxiv.org/abs/2402.10376), Maciej Raczuk - [Multi-turn Reinforcement Learning from Preference Human Feedback](https://arxiv.org/abs/2405.14655)
-* 2024-11-21 Rafał Powalski (Ingenix.ai) - Drug Design Topics, Jakub Kołaczyński - [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837)
+* 2024-11-21 Jakub Kołaczyński - [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837)
+* TBD
+* 2024-12-05 Rafał Powalski (Ingenix.ai) - Drug Design Topics
 
 
 ## Plan spotkań 2023/2024
