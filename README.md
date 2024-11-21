@@ -14,6 +14,9 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2024-11-21 Jakub Kołaczyński - [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837)
 * TBD
 * 2024-12-05 Rafał Powalski (Ingenix.ai) - Drug Design Topics
+* 2024-12-12 TBA
+* 2024-12-19 Bartłomiej Sadlej, Przemysław Pietrzak [Simulating 500 million years of evolution with a language model
+](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
 
 
 ## Plan spotkań 2023/2024
