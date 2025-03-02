@@ -17,6 +17,7 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2024-12-12 -
 * 2024-12-19 Bartłomiej Sadlej, Przemysław Pietrzak [Simulating 500 million years of evolution with a language model
 ](https://www.biorxiv.org/content/10.1101/2024.07.01.600583v1)
+* 2025-03-13 Paweł Siwak [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
 
 
 ## Plan spotkań 2023/2024
