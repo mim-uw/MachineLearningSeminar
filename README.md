@@ -21,7 +21,7 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2024-01-23- Mikołaj Garstecki [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/pdf/2305.10601#cite.wei2022chain)
 * 2025-03-06 Kamil Ciebiera, Przemysław Pietrzak: Deepseek
 * 2025-03-13 Paweł Siwak [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
-
+* 2025-03-27 Jakub Kołaczyński [Diffusion Models already have a Semantic Latent Space](https://arxiv.org/abs/2210.10960)
 
 
 ## Plan spotkań 2023/2024
