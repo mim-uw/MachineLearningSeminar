@@ -22,7 +22,7 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2025-03-06 Kamil Ciebiera, Przemysław Pietrzak: Deepseek
 * 2025-03-13 Paweł Siwak [LIMO: Less is More for Reasoning](https://arxiv.org/abs/2502.03387)
 * 2025-03-27 Jakub Kołaczyński [Diffusion Models already have a Semantic Latent Space](https://arxiv.org/abs/2210.10960)
-
+* 2025-04-03 Bartłomiej Sadlej [Rethinking Visual Counterfactual Explanations Through Region Constraint](https://arxiv.org/abs/2410.12591)
 
 ## Plan spotkań 2023/2024
 * 2023-10-05  spotkanie organizacyjne
