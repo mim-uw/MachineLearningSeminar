@@ -24,6 +24,7 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2025-03-27 Jakub Kołaczyński [Diffusion Models already have a Semantic Latent Space](https://arxiv.org/abs/2210.10960)
 * 2025-04-03 Bartłomiej Sadlej [Rethinking Visual Counterfactual Explanations Through Region Constraint](https://arxiv.org/abs/2410.12591)
 * 2025-05-15 Julian Kwiatkowski [Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning](https://arxiv.org/pdf/2406.12050)
+* 2025-05-29 Łukasz Smoliński [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195)
 
 ## Plan spotkań 2023/2024
 * 2023-10-05  spotkanie organizacyjne
