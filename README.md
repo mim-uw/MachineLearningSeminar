@@ -2,6 +2,15 @@
 
 Seminarium magisterskie MIMUW
 
+## Plan spotkań 2025/2026
+* 2025-10-02 spotkanie organizacyjne
+* 2025-10-09
+* 2025-10-16
+* 2025-10-23
+* 2025-10-30
+* 2025-11-06
+* 2025-11-20
+
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
 * 2024-10-10 spotkanie organizacyjne
