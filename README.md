@@ -5,7 +5,7 @@ Seminarium magisterskie MIMUW
 ## Plan spotkań 2025/2026
 * 2025-10-02 spotkanie organizacyjne
 * 2025-10-09
-* 2025-10-16
+* 2025-10-16 Ewa Szczurek - t.b.d.
 * 2025-10-23
 * 2025-10-30
 * 2025-11-06
