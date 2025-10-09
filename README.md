@@ -35,8 +35,7 @@ Learning-to-Rank](https://arxiv.org/pdf/2402.01878)
 * 2025-05-15 Julian Kwiatkowski [Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning](https://arxiv.org/pdf/2406.12050)
 * 2025-05-29 Łukasz Smoliński [Mutual Reasoning Makes Smaller LLMs Stronger Problem-Solvers](https://arxiv.org/abs/2408.06195), Maksym Matviienko [Self-Reflection in LLM Agents: Effects on Problem-Solving Performance](https://arxiv.org/abs/2405.06682)
 * 2025-06-05 Ignacy Stępniewski [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
-* 2025-06-12 Marek Lisowski [Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/pdf/2406.04268), Cezary Botta [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714)
-* 2025-06-19 Mateusz Boruń [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
+* 2025-06-12 Marek Lisowski [Open-Endedness is Essential for Artificial Superhuman Intelligence](https://arxiv.org/pdf/2406.04268), Cezary Botta [SAM 2: Segment Anything in Images and Videos](https://arxiv.org/abs/2408.00714), Mateusz Boruń [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://arxiv.org/abs/2203.03466)
 
 ## Plan spotkań 2023/2024
 * 2023-10-05  spotkanie organizacyjne
