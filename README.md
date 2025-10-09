@@ -7,7 +7,7 @@ Seminarium magisterskie MIMUW
 * 2025-10-09
 * 2025-10-16 Ewa Szczurek - t.b.d.
 * 2025-10-23
-* 2025-10-30
+* 2025-10-30 Jan Urbanek Subliminal Learning: Language models transmit behavioral traits via hidden signals in data https://arxiv.org/pdf/2507.14805
 * 2025-11-06
 * 2025-11-20
 
