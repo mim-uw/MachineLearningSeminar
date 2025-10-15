@@ -9,7 +9,7 @@ Seminarium magisterskie MIMUW
 * 2025-10-23
 * 2025-10-30 Jan Urbanek Subliminal Learning: Language models transmit behavioral traits via hidden signals in data https://arxiv.org/pdf/2507.14805, Łukasz Smoliński [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
 * 2025-11-06
-* 2025-11-20
+* 2025-11-20 Jakub Kołaczyński: [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947)
 
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
