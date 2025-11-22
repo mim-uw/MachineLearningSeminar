@@ -10,9 +10,9 @@ Seminarium magisterskie MIMUW
 * 2025-10-30 Jan Urbanek Subliminal Learning: Language models transmit behavioral traits via hidden signals in data https://arxiv.org/pdf/2507.14805, Łukasz Smoliński [Training Large Language Models to Reason in a Continuous Latent Space](https://arxiv.org/abs/2412.06769)
 * 2025-11-06 Marek Lisowski: [Scaling Scaling Laws with Board Games](https://arxiv.org/abs/2104.03113), Cezary Botta: [Learn To be Efficient: Build Structured Sparsity in Large Language Models](https://arxiv.org/abs/2402.06126)
 * 2025-11-20 Jakub Kołaczyński: [Spurious Rewards: Rethinking Training Signals in RLVR](https://arxiv.org/abs/2506.10947), Ignacy Stępniewski: [T2VUnlearning: A Concept Erasing Method for Text-to-Video Diffusion Models](https://arxiv.org/abs/2505.17550)
-* 2025-11-27
+* 2025-11-27 Mikołaj Garstecki: [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
 * 2025-12-4
-* 2025-12-11 Stanisław Kiedrzyński: [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794), 
+* 2025-12-11 Stanisław Kiedrzyński: [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794),
 
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
