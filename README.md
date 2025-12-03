@@ -13,6 +13,7 @@ Seminarium magisterskie MIMUW
 * 2025-11-27 Mikołaj Garstecki: [DeepSeek-OCR: Contexts Optical Compression](https://arxiv.org/abs/2510.18234)
 * 2025-12-4 Mateusz Winiarek: [The Impact of Depth on Compositional Generalization in Transformer Language Models](https://arxiv.org/pdf/2310.19956)
 * 2025-12-11 Stanisław Kiedrzyński: [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794),
+* 2025-12-18 Mateusz Boryczka: [What Characterizes Effective Reasoning? Revisiting Length, Review, and Structure of CoT](https://arxiv.org/pdf/2509.19284v1),
 
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
