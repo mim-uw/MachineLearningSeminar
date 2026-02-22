@@ -17,6 +17,7 @@ Seminarium magisterskie MIMUW
 * 2026-01-08 Marek Lisowski: [AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views](https://arxiv.org/abs/2505.23716)
 * 2026-01-15 Jan Urbanek: [Activation-Informed Merging of Large Language Models](https://arxiv.org/abs/2502.02421), Mikołaj Garstecki: [Progressive Data Dropout: An Embarrassingly Simple Approach to Faster Training](https://arxiv.org/abs/2505.22342)
 * 2026-01-22 Cezary Botta: [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/), Michał Nowicki: [Evaluating multiple models using labeled and unlabeled data](https://arxiv.org/abs/2501.11866)
+* 2026-02-26 Ignacy Stępniewski: [Memory Mosaics at scale](https://arxiv.org/abs/2507.03285)
 
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
