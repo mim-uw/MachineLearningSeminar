@@ -18,7 +18,7 @@ Seminarium magisterskie MIMUW
 * 2026-01-15 Jan Urbanek: [Activation-Informed Merging of Large Language Models](https://arxiv.org/abs/2502.02421), Mikołaj Garstecki: [Progressive Data Dropout: An Embarrassingly Simple Approach to Faster Training](https://arxiv.org/abs/2505.22342)
 * 2026-01-22 Cezary Botta: [Muon: An optimizer for hidden layers in neural networks](https://kellerjordan.github.io/posts/muon/), Michał Nowicki: [Evaluating multiple models using labeled and unlabeled data](https://arxiv.org/abs/2501.11866)
 * 2026-02-26 Ignacy Stępniewski: [Memory Mosaics at scale](https://arxiv.org/abs/2507.03285), Jakub Kołaczyński [Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation](https://arxiv.org/pdf/2512.23703)
-* 2026-03-05
+* 2026-03-05 Łukasz Smoliński: [Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference](https://arxiv.org/abs/2506.09501)
 * 2026-03-12
 * 2026-03-19 Mateusz Boryczka: [1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities](https://arxiv.org/abs/2503.14858)
 
