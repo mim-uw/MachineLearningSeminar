@@ -21,7 +21,7 @@ Seminarium magisterskie MIMUW
 * 2026-03-05 Łukasz Smoliński: [Understanding and Mitigating Numerical Sources of Nondeterminism in LLM Inference](https://arxiv.org/abs/2506.09501)
 * 2026-03-12 Ignacy Kozakiewicz [Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/pdf/2511.13720)
 * 2026-03-19 Mateusz Boryczka: [1000 Layer Networks for Self-Supervised RL: Scaling Depth Can Enable New Goal-Reaching Capabilities](https://arxiv.org/abs/2503.14858), Mateusz Winiarek (Gated Attention for Large Language Models: Non-linearity, Sparsity, and Attention-Sink-Free)[https://arxiv.org/pdf/2505.06708]
-
+* 2026-03-26 Stanisław Kiedrzyński: [Superposition Yields Robust Neural Scaling](https://arxiv.org/abs/2505.10465)
 ## Plan spotkań 2024/2025
 * 2024-10-03 spotkanie organizacyjne
 * 2024-10-10 spotkanie organizacyjne
