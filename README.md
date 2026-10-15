@@ -2,6 +2,10 @@
 
 Seminarium magisterskie MIMUW
 
+## Plan spotkań 2026/2027
+* 2026-10-23 Jan Urbanek: [Rope to Nope and Back Again: A New Hybrid Attention Strategy](https://arxiv.org/abs/2501.18795)
+* 
+
 ## Plan spotkań 2025/2026
 * 2025-10-02 spotkanie organizacyjne
 * 2025-10-09
