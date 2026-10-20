@@ -1,12 +1,9 @@
 # Machine Learning
 
-Seminarium magisterskie MIMUW
-* 2026-12-18 Wiktor Kasjaniuk: [Straight to Zero: Why Linearly Decaying the Learning
-Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)
-
 ## Plan spotkań 2026/2027
 * 2026-10-23 Jan Urbanek: [Rope to Nope and Back Again: A New Hybrid Attention Strategy](https://arxiv.org/abs/2501.18795)
-* 
+* 2026-12-18 Wiktor Kasjaniuk: [Straight to Zero: Why Linearly Decaying the Learning
+Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)
 
 ## Plan spotkań 2025/2026
 * 2025-10-02 spotkanie organizacyjne
