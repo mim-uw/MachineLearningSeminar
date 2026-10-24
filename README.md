@@ -5,6 +5,7 @@
 * 2026-10-30 Michał Nowicki: [How much can language models memorize?](https://arxiv.org/abs/2505.24832)
 * 2026-12-18 Wiktor Kasjaniuk: [Straight to Zero: Why Linearly Decaying the Learning
 Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)
+* 2027-01-08 Mateusz Boryczka: [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
 
 ## Plan spotkań 2025/2026
 * 2025-10-02 spotkanie organizacyjne
