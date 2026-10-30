@@ -2,7 +2,7 @@
 
 ## Plan spotkań 2026/2027
 * 2026-10-23 Jan Urbanek: [Rope to Nope and Back Again: A New Hybrid Attention Strategy](https://arxiv.org/abs/2501.18795)
-* 2026-10-30 Michał Nowicki: [How much can language models memorize?](https://arxiv.org/abs/2505.24832)
+* 2026-10-30 Michał Nowicki: [How much can language models memorize?](https://arxiv.org/abs/2505.24832), Ignacy Kozakiewicz: [Understanding Warmup-Stable-Decay Learning Rates: A River Valley Loss Landscape Perspective](https://arxiv.org/abs/2410.05192)
 * 2026-12-18 Wiktor Kasjaniuk: [Straight to Zero: Why Linearly Decaying the Learning
 Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)
 * 2027-01-08 Mateusz Boryczka: [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
