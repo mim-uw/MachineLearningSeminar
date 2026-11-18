@@ -6,6 +6,7 @@
 * 2026-11-6 Stanisław Kiedrzyński: [To Grok Grokking: Provable Grokking in Ridge Regression](https://arxiv.org/abs/2601.19791), Wiktor Kasjaniuk: [Straight to Zero: Why Linearly Decaying the Learning
 Rate to Zero Works Best for LLMs](https://arxiv.org/abs/2502.15938)
 * 2026-11-20 Mikołaj Tomaszewicz: [Why Language Models Hallucinate](https://arxiv.org/abs/2509.04664)
+* 2026-11-27 Hubert Krupniewski: [Round and Round We Go! What Makes Rotary Positional Encodings Useful?](https://arxiv.org/abs/2410.06205)
 * 2026-12-04 Jacek Kajdan: [Pre-training under Infinite Compute](https://arxiv.org/abs/2509.14786)
 * 2027-01-08 Mateusz Boryczka: [Does Reinforcement Learning Really Incentivize Reasoning Capacity in LLMs Beyond the Base Model?](https://arxiv.org/abs/2504.13837)
 
